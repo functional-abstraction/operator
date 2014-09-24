@@ -1,0 +1,2 @@
+
+exports.abs = Math.abs;
