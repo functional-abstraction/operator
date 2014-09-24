@@ -1,0 +1,19 @@
+{
+	"name": "aureooms-js-operator",
+	"version": "0.0.0",
+	"ignore": [
+		"js/index.js",
+		"js/src",
+		"test",
+		"pkg.json",
+		"package.json",
+		".groc.json",
+		".travis.yml",
+		".gitignore",
+		"README.md"
+	],
+	"description": "language operators code bricks for JavaScript",
+	"main": "js/dist/operator.js",
+	"license": "AGPL-3.0",
+	"homepage": "http://aureooms.github.io/js-operator/"
+}

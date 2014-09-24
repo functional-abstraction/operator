@@ -1,0 +1,32 @@
+{
+	"devDependencies": {
+		"aureooms-node-package": "^1.0.0"
+	},
+	"dependencies": {},
+	"version": "0.0.0",
+	"author": "aureooms",
+	"scripts": {
+		"doc": "./node_modules/.bin/groc",
+		"build": "./node_modules/.bin/aureooms-node-package-build",
+		"test": "./node_modules/.bin/aureooms-node-package-test"
+	},
+	"license": "AGPL-3.0",
+	"name": "aureooms-js-operator",
+	"keywords": [
+		"bricks",
+		"functional",
+		"javascript",
+		"js",
+		"operator"
+	],
+	"main": "js/dist/operator.js",
+	"homepage": "http://aureooms.github.io/js-operator/",
+	"repository": {
+		"url": "https://github.com/aureooms/js-operator.git",
+		"type": "git"
+	},
+	"description": "language operators code bricks for JavaScript",
+	"bugs": {
+		"url": "https://github.com/aureooms/js-operator/issues"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"src": "js/src/",
+	"out": "js/dist/",
+	"debug": false,
+	"ns": "operator",
+	"code": {
+		"main": [
+			"js",
+			"dist",
+			"operator.js"
+		],
+		"test": [
+			"test",
+			"js"
+		]
+	}
+}
