@@ -8,3 +8,8 @@ language operators code bricks for JavaScript
 [![Dependencies Status](https://david-dm.org/aureooms/js-operator.png)](https://david-dm.org/aureooms/js-operator#info=dependencies)
 [![devDependencies Status](https://david-dm.org/aureooms/js-operator/dev-status.png)](https://david-dm.org/aureooms/js-operator#info=devDependencies)
 [![Code Climate](https://codeclimate.com/github/aureooms/js-operator.png)](https://codeclimate.com/github/aureooms/js-operator)
+
+
+references:
+
+  - https://docs.python.org/3/library/operator.html
