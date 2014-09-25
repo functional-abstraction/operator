@@ -21,6 +21,1226 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
       },
       "depth": 1,
       "outline": []
+    }, {
+      "type": "folder",
+      "data": {
+        "path": "bool",
+        "title": "bool"
+      },
+      "depth": 1,
+      "children": [
+        {
+          "type": "file",
+          "data": {
+            "language": {
+              "nameMatchers": [".js"],
+              "pygmentsLexer": "javascript",
+              "multiLineComment": ["/*", "*", "*/"],
+              "singleLineComment": ["//"],
+              "ignorePrefix": "}",
+              "foldPrefix": "^",
+              "name": "JavaScript"
+            },
+            "sourcePath": "/home/genius/dev/js/js-operator/js/src/bool/and.js",
+            "projectPath": "js/src/bool/and.js",
+            "targetPath": "bool/and",
+            "pageTitle": "bool/and",
+            "title": "and"
+          },
+          "depth": 2,
+          "outline": []
+        }, {
+          "type": "file",
+          "data": {
+            "language": {
+              "nameMatchers": [".js"],
+              "pygmentsLexer": "javascript",
+              "multiLineComment": ["/*", "*", "*/"],
+              "singleLineComment": ["//"],
+              "ignorePrefix": "}",
+              "foldPrefix": "^",
+              "name": "JavaScript"
+            },
+            "sourcePath": "/home/genius/dev/js/js-operator/js/src/bool/not.js",
+            "projectPath": "js/src/bool/not.js",
+            "targetPath": "bool/not",
+            "pageTitle": "bool/not",
+            "title": "not"
+          },
+          "depth": 2,
+          "outline": []
+        }, {
+          "type": "file",
+          "data": {
+            "language": {
+              "nameMatchers": [".js"],
+              "pygmentsLexer": "javascript",
+              "multiLineComment": ["/*", "*", "*/"],
+              "singleLineComment": ["//"],
+              "ignorePrefix": "}",
+              "foldPrefix": "^",
+              "name": "JavaScript"
+            },
+            "sourcePath": "/home/genius/dev/js/js-operator/js/src/bool/or.js",
+            "projectPath": "js/src/bool/or.js",
+            "targetPath": "bool/or",
+            "pageTitle": "bool/or",
+            "title": "or"
+          },
+          "depth": 2,
+          "outline": []
+        }, {
+          "type": "file",
+          "data": {
+            "language": {
+              "nameMatchers": [".js"],
+              "pygmentsLexer": "javascript",
+              "multiLineComment": ["/*", "*", "*/"],
+              "singleLineComment": ["//"],
+              "ignorePrefix": "}",
+              "foldPrefix": "^",
+              "name": "JavaScript"
+            },
+            "sourcePath": "/home/genius/dev/js/js-operator/js/src/bool/xor.js",
+            "projectPath": "js/src/bool/xor.js",
+            "targetPath": "bool/xor",
+            "pageTitle": "bool/xor",
+            "title": "xor"
+          },
+          "depth": 2,
+          "outline": []
+        }
+      ]
+    }, {
+      "type": "folder",
+      "data": {
+        "path": "cast",
+        "title": "cast"
+      },
+      "depth": 1,
+      "children": [
+        {
+          "type": "file",
+          "data": {
+            "language": {
+              "nameMatchers": [".js"],
+              "pygmentsLexer": "javascript",
+              "multiLineComment": ["/*", "*", "*/"],
+              "singleLineComment": ["//"],
+              "ignorePrefix": "}",
+              "foldPrefix": "^",
+              "name": "JavaScript"
+            },
+            "sourcePath": "/home/genius/dev/js/js-operator/js/src/cast/_index.js",
+            "projectPath": "js/src/cast/_index.js",
+            "targetPath": "cast/_index",
+            "pageTitle": "cast/_index",
+            "title": "_index"
+          },
+          "depth": 2,
+          "outline": []
+        }, {
+          "type": "file",
+          "data": {
+            "language": {
+              "nameMatchers": [".js"],
+              "pygmentsLexer": "javascript",
+              "multiLineComment": ["/*", "*", "*/"],
+              "singleLineComment": ["//"],
+              "ignorePrefix": "}",
+              "foldPrefix": "^",
+              "name": "JavaScript"
+            },
+            "sourcePath": "/home/genius/dev/js/js-operator/js/src/cast/truth.js",
+            "projectPath": "js/src/cast/truth.js",
+            "targetPath": "cast/truth",
+            "pageTitle": "cast/truth",
+            "title": "truth"
+          },
+          "depth": 2,
+          "outline": []
+        }
+      ]
+    }, {
+      "type": "folder",
+      "data": {
+        "path": "fn",
+        "title": "fn"
+      },
+      "depth": 1,
+      "children": [
+        {
+          "type": "file",
+          "data": {
+            "language": {
+              "nameMatchers": [".js"],
+              "pygmentsLexer": "javascript",
+              "multiLineComment": ["/*", "*", "*/"],
+              "singleLineComment": ["//"],
+              "ignorePrefix": "}",
+              "foldPrefix": "^",
+              "name": "JavaScript"
+            },
+            "sourcePath": "/home/genius/dev/js/js-operator/js/src/fn/methodcaller.js",
+            "projectPath": "js/src/fn/methodcaller.js",
+            "targetPath": "fn/methodcaller",
+            "pageTitle": "fn/methodcaller",
+            "title": "methodcaller"
+          },
+          "depth": 2,
+          "outline": []
+        }, {
+          "type": "file",
+          "data": {
+            "language": {
+              "nameMatchers": [".js"],
+              "pygmentsLexer": "javascript",
+              "multiLineComment": ["/*", "*", "*/"],
+              "singleLineComment": ["//"],
+              "ignorePrefix": "}",
+              "foldPrefix": "^",
+              "name": "JavaScript"
+            },
+            "sourcePath": "/home/genius/dev/js/js-operator/js/src/fn/noop.js",
+            "projectPath": "js/src/fn/noop.js",
+            "targetPath": "fn/noop",
+            "pageTitle": "fn/noop",
+            "title": "noop"
+          },
+          "depth": 2,
+          "outline": []
+        }
+      ]
+    }, {
+      "type": "folder",
+      "data": {
+        "path": "list",
+        "title": "list"
+      },
+      "depth": 1,
+      "children": [
+        {
+          "type": "file",
+          "data": {
+            "language": {
+              "nameMatchers": [".js"],
+              "pygmentsLexer": "javascript",
+              "multiLineComment": ["/*", "*", "*/"],
+              "singleLineComment": ["//"],
+              "ignorePrefix": "}",
+              "foldPrefix": "^",
+              "name": "JavaScript"
+            },
+            "sourcePath": "/home/genius/dev/js/js-operator/js/src/list/concat.js",
+            "projectPath": "js/src/list/concat.js",
+            "targetPath": "list/concat",
+            "pageTitle": "list/concat",
+            "title": "concat"
+          },
+          "depth": 2,
+          "outline": []
+        }, {
+          "type": "file",
+          "data": {
+            "language": {
+              "nameMatchers": [".js"],
+              "pygmentsLexer": "javascript",
+              "multiLineComment": ["/*", "*", "*/"],
+              "singleLineComment": ["//"],
+              "ignorePrefix": "}",
+              "foldPrefix": "^",
+              "name": "JavaScript"
+            },
+            "sourcePath": "/home/genius/dev/js/js-operator/js/src/list/contains.js",
+            "projectPath": "js/src/list/contains.js",
+            "targetPath": "list/contains",
+            "pageTitle": "list/contains",
+            "title": "contains"
+          },
+          "depth": 2,
+          "outline": []
+        }, {
+          "type": "file",
+          "data": {
+            "language": {
+              "nameMatchers": [".js"],
+              "pygmentsLexer": "javascript",
+              "multiLineComment": ["/*", "*", "*/"],
+              "singleLineComment": ["//"],
+              "ignorePrefix": "}",
+              "foldPrefix": "^",
+              "name": "JavaScript"
+            },
+            "sourcePath": "/home/genius/dev/js/js-operator/js/src/list/countOf.js",
+            "projectPath": "js/src/list/countOf.js",
+            "targetPath": "list/countOf",
+            "pageTitle": "list/countOf",
+            "title": "countOf"
+          },
+          "depth": 2,
+          "outline": []
+        }, {
+          "type": "file",
+          "data": {
+            "language": {
+              "nameMatchers": [".js"],
+              "pygmentsLexer": "javascript",
+              "multiLineComment": ["/*", "*", "*/"],
+              "singleLineComment": ["//"],
+              "ignorePrefix": "}",
+              "foldPrefix": "^",
+              "name": "JavaScript"
+            },
+            "sourcePath": "/home/genius/dev/js/js-operator/js/src/list/iconcat.js",
+            "projectPath": "js/src/list/iconcat.js",
+            "targetPath": "list/iconcat",
+            "pageTitle": "list/iconcat",
+            "title": "iconcat"
+          },
+          "depth": 2,
+          "outline": []
+        }, {
+          "type": "file",
+          "data": {
+            "language": {
+              "nameMatchers": [".js"],
+              "pygmentsLexer": "javascript",
+              "multiLineComment": ["/*", "*", "*/"],
+              "singleLineComment": ["//"],
+              "ignorePrefix": "}",
+              "foldPrefix": "^",
+              "name": "JavaScript"
+            },
+            "sourcePath": "/home/genius/dev/js/js-operator/js/src/list/indexOf.js",
+            "projectPath": "js/src/list/indexOf.js",
+            "targetPath": "list/indexOf",
+            "pageTitle": "list/indexOf",
+            "title": "indexOf"
+          },
+          "depth": 2,
+          "outline": []
+        }, {
+          "type": "file",
+          "data": {
+            "language": {
+              "nameMatchers": [".js"],
+              "pygmentsLexer": "javascript",
+              "multiLineComment": ["/*", "*", "*/"],
+              "singleLineComment": ["//"],
+              "ignorePrefix": "}",
+              "foldPrefix": "^",
+              "name": "JavaScript"
+            },
+            "sourcePath": "/home/genius/dev/js/js-operator/js/src/list/len.js",
+            "projectPath": "js/src/list/len.js",
+            "targetPath": "list/len",
+            "pageTitle": "list/len",
+            "title": "len"
+          },
+          "depth": 2,
+          "outline": []
+        }
+      ]
+    }, {
+      "type": "folder",
+      "data": {
+        "path": "num",
+        "title": "num"
+      },
+      "depth": 1,
+      "children": [
+        {
+          "type": "folder",
+          "data": {
+            "path": "num/binary",
+            "title": "binary"
+          },
+          "depth": 2,
+          "children": [
+            {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
+                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/binary/add.js",
+                "projectPath": "js/src/num/binary/add.js",
+                "targetPath": "num/binary/add",
+                "pageTitle": "num/binary/add",
+                "title": "add"
+              },
+              "depth": 3,
+              "outline": []
+            }, {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
+                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/binary/floordiv.js",
+                "projectPath": "js/src/num/binary/floordiv.js",
+                "targetPath": "num/binary/floordiv",
+                "pageTitle": "num/binary/floordiv",
+                "title": "floordiv"
+              },
+              "depth": 3,
+              "outline": []
+            }, {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
+                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/binary/iadd.js",
+                "projectPath": "js/src/num/binary/iadd.js",
+                "targetPath": "num/binary/iadd",
+                "pageTitle": "num/binary/iadd",
+                "title": "iadd"
+              },
+              "depth": 3,
+              "outline": []
+            }, {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
+                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/binary/ifloordiv.js",
+                "projectPath": "js/src/num/binary/ifloordiv.js",
+                "targetPath": "num/binary/ifloordiv",
+                "pageTitle": "num/binary/ifloordiv",
+                "title": "ifloordiv"
+              },
+              "depth": 3,
+              "outline": []
+            }, {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
+                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/binary/ilshift.js",
+                "projectPath": "js/src/num/binary/ilshift.js",
+                "targetPath": "num/binary/ilshift",
+                "pageTitle": "num/binary/ilshift",
+                "title": "ilshift"
+              },
+              "depth": 3,
+              "outline": []
+            }, {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
+                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/binary/imod.js",
+                "projectPath": "js/src/num/binary/imod.js",
+                "targetPath": "num/binary/imod",
+                "pageTitle": "num/binary/imod",
+                "title": "imod"
+              },
+              "depth": 3,
+              "outline": []
+            }, {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
+                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/binary/imul.js",
+                "projectPath": "js/src/num/binary/imul.js",
+                "targetPath": "num/binary/imul",
+                "pageTitle": "num/binary/imul",
+                "title": "imul"
+              },
+              "depth": 3,
+              "outline": []
+            }, {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
+                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/binary/ipow.js",
+                "projectPath": "js/src/num/binary/ipow.js",
+                "targetPath": "num/binary/ipow",
+                "pageTitle": "num/binary/ipow",
+                "title": "ipow"
+              },
+              "depth": 3,
+              "outline": []
+            }, {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
+                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/binary/irshift.js",
+                "projectPath": "js/src/num/binary/irshift.js",
+                "targetPath": "num/binary/irshift",
+                "pageTitle": "num/binary/irshift",
+                "title": "irshift"
+              },
+              "depth": 3,
+              "outline": []
+            }, {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
+                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/binary/isub.js",
+                "projectPath": "js/src/num/binary/isub.js",
+                "targetPath": "num/binary/isub",
+                "pageTitle": "num/binary/isub",
+                "title": "isub"
+              },
+              "depth": 3,
+              "outline": []
+            }, {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
+                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/binary/itruediv.js",
+                "projectPath": "js/src/num/binary/itruediv.js",
+                "targetPath": "num/binary/itruediv",
+                "pageTitle": "num/binary/itruediv",
+                "title": "itruediv"
+              },
+              "depth": 3,
+              "outline": []
+            }, {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
+                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/binary/lshift.js",
+                "projectPath": "js/src/num/binary/lshift.js",
+                "targetPath": "num/binary/lshift",
+                "pageTitle": "num/binary/lshift",
+                "title": "lshift"
+              },
+              "depth": 3,
+              "outline": []
+            }, {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
+                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/binary/mod.js",
+                "projectPath": "js/src/num/binary/mod.js",
+                "targetPath": "num/binary/mod",
+                "pageTitle": "num/binary/mod",
+                "title": "mod"
+              },
+              "depth": 3,
+              "outline": []
+            }, {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
+                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/binary/mul.js",
+                "projectPath": "js/src/num/binary/mul.js",
+                "targetPath": "num/binary/mul",
+                "pageTitle": "num/binary/mul",
+                "title": "mul"
+              },
+              "depth": 3,
+              "outline": []
+            }, {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
+                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/binary/pow.js",
+                "projectPath": "js/src/num/binary/pow.js",
+                "targetPath": "num/binary/pow",
+                "pageTitle": "num/binary/pow",
+                "title": "pow"
+              },
+              "depth": 3,
+              "outline": []
+            }, {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
+                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/binary/rshift.js",
+                "projectPath": "js/src/num/binary/rshift.js",
+                "targetPath": "num/binary/rshift",
+                "pageTitle": "num/binary/rshift",
+                "title": "rshift"
+              },
+              "depth": 3,
+              "outline": []
+            }, {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
+                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/binary/sub.js",
+                "projectPath": "js/src/num/binary/sub.js",
+                "targetPath": "num/binary/sub",
+                "pageTitle": "num/binary/sub",
+                "title": "sub"
+              },
+              "depth": 3,
+              "outline": []
+            }, {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
+                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/binary/truediv.js",
+                "projectPath": "js/src/num/binary/truediv.js",
+                "targetPath": "num/binary/truediv",
+                "pageTitle": "num/binary/truediv",
+                "title": "truediv"
+              },
+              "depth": 3,
+              "outline": []
+            }
+          ]
+        }, {
+          "type": "folder",
+          "data": {
+            "path": "num/bit",
+            "title": "bit"
+          },
+          "depth": 2,
+          "children": [
+            {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
+                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/bit/AND.js",
+                "projectPath": "js/src/num/bit/AND.js",
+                "targetPath": "num/bit/AND",
+                "pageTitle": "num/bit/AND",
+                "title": "AND"
+              },
+              "depth": 3,
+              "outline": []
+            }, {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
+                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/bit/IAND.js",
+                "projectPath": "js/src/num/bit/IAND.js",
+                "targetPath": "num/bit/IAND",
+                "pageTitle": "num/bit/IAND",
+                "title": "IAND"
+              },
+              "depth": 3,
+              "outline": []
+            }, {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
+                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/bit/IOR.js",
+                "projectPath": "js/src/num/bit/IOR.js",
+                "targetPath": "num/bit/IOR",
+                "pageTitle": "num/bit/IOR",
+                "title": "IOR"
+              },
+              "depth": 3,
+              "outline": []
+            }, {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
+                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/bit/IXOR.js",
+                "projectPath": "js/src/num/bit/IXOR.js",
+                "targetPath": "num/bit/IXOR",
+                "pageTitle": "num/bit/IXOR",
+                "title": "IXOR"
+              },
+              "depth": 3,
+              "outline": []
+            }, {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
+                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/bit/NOT.js",
+                "projectPath": "js/src/num/bit/NOT.js",
+                "targetPath": "num/bit/NOT",
+                "pageTitle": "num/bit/NOT",
+                "title": "NOT"
+              },
+              "depth": 3,
+              "outline": []
+            }, {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
+                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/bit/OR.js",
+                "projectPath": "js/src/num/bit/OR.js",
+                "targetPath": "num/bit/OR",
+                "pageTitle": "num/bit/OR",
+                "title": "OR"
+              },
+              "depth": 3,
+              "outline": []
+            }, {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
+                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/bit/XOR.js",
+                "projectPath": "js/src/num/bit/XOR.js",
+                "targetPath": "num/bit/XOR",
+                "pageTitle": "num/bit/XOR",
+                "title": "XOR"
+              },
+              "depth": 3,
+              "outline": []
+            }
+          ]
+        }, {
+          "type": "folder",
+          "data": {
+            "path": "num/cmp",
+            "title": "cmp"
+          },
+          "depth": 2,
+          "children": [
+            {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
+                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/cmp/eq.js",
+                "projectPath": "js/src/num/cmp/eq.js",
+                "targetPath": "num/cmp/eq",
+                "pageTitle": "num/cmp/eq",
+                "title": "eq"
+              },
+              "depth": 3,
+              "outline": []
+            }, {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
+                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/cmp/ge.js",
+                "projectPath": "js/src/num/cmp/ge.js",
+                "targetPath": "num/cmp/ge",
+                "pageTitle": "num/cmp/ge",
+                "title": "ge"
+              },
+              "depth": 3,
+              "outline": []
+            }, {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
+                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/cmp/gt.js",
+                "projectPath": "js/src/num/cmp/gt.js",
+                "targetPath": "num/cmp/gt",
+                "pageTitle": "num/cmp/gt",
+                "title": "gt"
+              },
+              "depth": 3,
+              "outline": []
+            }, {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
+                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/cmp/le.js",
+                "projectPath": "js/src/num/cmp/le.js",
+                "targetPath": "num/cmp/le",
+                "pageTitle": "num/cmp/le",
+                "title": "le"
+              },
+              "depth": 3,
+              "outline": []
+            }, {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
+                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/cmp/lt.js",
+                "projectPath": "js/src/num/cmp/lt.js",
+                "targetPath": "num/cmp/lt",
+                "pageTitle": "num/cmp/lt",
+                "title": "lt"
+              },
+              "depth": 3,
+              "outline": []
+            }, {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
+                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/cmp/ne.js",
+                "projectPath": "js/src/num/cmp/ne.js",
+                "targetPath": "num/cmp/ne",
+                "pageTitle": "num/cmp/ne",
+                "title": "ne"
+              },
+              "depth": 3,
+              "outline": []
+            }
+          ]
+        }, {
+          "type": "folder",
+          "data": {
+            "path": "num/unary",
+            "title": "unary"
+          },
+          "depth": 2,
+          "children": [
+            {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
+                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/unary/abs.js",
+                "projectPath": "js/src/num/unary/abs.js",
+                "targetPath": "num/unary/abs",
+                "pageTitle": "num/unary/abs",
+                "title": "abs"
+              },
+              "depth": 3,
+              "outline": []
+            }, {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
+                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/unary/neg.js",
+                "projectPath": "js/src/num/unary/neg.js",
+                "targetPath": "num/unary/neg",
+                "pageTitle": "num/unary/neg",
+                "title": "neg"
+              },
+              "depth": 3,
+              "outline": []
+            }, {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
+                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/unary/pos.js",
+                "projectPath": "js/src/num/unary/pos.js",
+                "targetPath": "num/unary/pos",
+                "pageTitle": "num/unary/pos",
+                "title": "pos"
+              },
+              "depth": 3,
+              "outline": []
+            }
+          ]
+        }
+      ]
+    }, {
+      "type": "folder",
+      "data": {
+        "path": "obj",
+        "title": "obj"
+      },
+      "depth": 1,
+      "children": [
+        {
+          "type": "file",
+          "data": {
+            "language": {
+              "nameMatchers": [".js"],
+              "pygmentsLexer": "javascript",
+              "multiLineComment": ["/*", "*", "*/"],
+              "singleLineComment": ["//"],
+              "ignorePrefix": "}",
+              "foldPrefix": "^",
+              "name": "JavaScript"
+            },
+            "sourcePath": "/home/genius/dev/js/js-operator/js/src/obj/attrgetter.js",
+            "projectPath": "js/src/obj/attrgetter.js",
+            "targetPath": "obj/attrgetter",
+            "pageTitle": "obj/attrgetter",
+            "title": "attrgetter"
+          },
+          "depth": 2,
+          "outline": []
+        }, {
+          "type": "file",
+          "data": {
+            "language": {
+              "nameMatchers": [".js"],
+              "pygmentsLexer": "javascript",
+              "multiLineComment": ["/*", "*", "*/"],
+              "singleLineComment": ["//"],
+              "ignorePrefix": "}",
+              "foldPrefix": "^",
+              "name": "JavaScript"
+            },
+            "sourcePath": "/home/genius/dev/js/js-operator/js/src/obj/attrresolve.js",
+            "projectPath": "js/src/obj/attrresolve.js",
+            "targetPath": "obj/attrresolve",
+            "pageTitle": "obj/attrresolve",
+            "title": "attrresolve"
+          },
+          "depth": 2,
+          "outline": []
+        }, {
+          "type": "file",
+          "data": {
+            "language": {
+              "nameMatchers": [".js"],
+              "pygmentsLexer": "javascript",
+              "multiLineComment": ["/*", "*", "*/"],
+              "singleLineComment": ["//"],
+              "ignorePrefix": "}",
+              "foldPrefix": "^",
+              "name": "JavaScript"
+            },
+            "sourcePath": "/home/genius/dev/js/js-operator/js/src/obj/delitem.js",
+            "projectPath": "js/src/obj/delitem.js",
+            "targetPath": "obj/delitem",
+            "pageTitle": "obj/delitem",
+            "title": "delitem"
+          },
+          "depth": 2,
+          "outline": []
+        }, {
+          "type": "file",
+          "data": {
+            "language": {
+              "nameMatchers": [".js"],
+              "pygmentsLexer": "javascript",
+              "multiLineComment": ["/*", "*", "*/"],
+              "singleLineComment": ["//"],
+              "ignorePrefix": "}",
+              "foldPrefix": "^",
+              "name": "JavaScript"
+            },
+            "sourcePath": "/home/genius/dev/js/js-operator/js/src/obj/getitem.js",
+            "projectPath": "js/src/obj/getitem.js",
+            "targetPath": "obj/getitem",
+            "pageTitle": "obj/getitem",
+            "title": "getitem"
+          },
+          "depth": 2,
+          "outline": []
+        }, {
+          "type": "file",
+          "data": {
+            "language": {
+              "nameMatchers": [".js"],
+              "pygmentsLexer": "javascript",
+              "multiLineComment": ["/*", "*", "*/"],
+              "singleLineComment": ["//"],
+              "ignorePrefix": "}",
+              "foldPrefix": "^",
+              "name": "JavaScript"
+            },
+            "sourcePath": "/home/genius/dev/js/js-operator/js/src/obj/is.js",
+            "projectPath": "js/src/obj/is.js",
+            "targetPath": "obj/is",
+            "pageTitle": "obj/is",
+            "title": "is"
+          },
+          "depth": 2,
+          "outline": []
+        }, {
+          "type": "file",
+          "data": {
+            "language": {
+              "nameMatchers": [".js"],
+              "pygmentsLexer": "javascript",
+              "multiLineComment": ["/*", "*", "*/"],
+              "singleLineComment": ["//"],
+              "ignorePrefix": "}",
+              "foldPrefix": "^",
+              "name": "JavaScript"
+            },
+            "sourcePath": "/home/genius/dev/js/js-operator/js/src/obj/is_not.js",
+            "projectPath": "js/src/obj/is_not.js",
+            "targetPath": "obj/is_not",
+            "pageTitle": "obj/is_not",
+            "title": "is_not"
+          },
+          "depth": 2,
+          "outline": []
+        }, {
+          "type": "file",
+          "data": {
+            "language": {
+              "nameMatchers": [".js"],
+              "pygmentsLexer": "javascript",
+              "multiLineComment": ["/*", "*", "*/"],
+              "singleLineComment": ["//"],
+              "ignorePrefix": "}",
+              "foldPrefix": "^",
+              "name": "JavaScript"
+            },
+            "sourcePath": "/home/genius/dev/js/js-operator/js/src/obj/itemgetter.js",
+            "projectPath": "js/src/obj/itemgetter.js",
+            "targetPath": "obj/itemgetter",
+            "pageTitle": "obj/itemgetter",
+            "title": "itemgetter"
+          },
+          "depth": 2,
+          "outline": []
+        }, {
+          "type": "file",
+          "data": {
+            "language": {
+              "nameMatchers": [".js"],
+              "pygmentsLexer": "javascript",
+              "multiLineComment": ["/*", "*", "*/"],
+              "singleLineComment": ["//"],
+              "ignorePrefix": "}",
+              "foldPrefix": "^",
+              "name": "JavaScript"
+            },
+            "sourcePath": "/home/genius/dev/js/js-operator/js/src/obj/setitem.js",
+            "projectPath": "js/src/obj/setitem.js",
+            "targetPath": "obj/setitem",
+            "pageTitle": "obj/setitem",
+            "title": "setitem"
+          },
+          "depth": 2,
+          "outline": []
+        }
+      ]
     }
   ];
 
