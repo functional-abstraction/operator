@@ -13,7 +13,7 @@ var attrgetter = function () {
 		attr = args[0];
 
 		g = function (obj) {
-			return obj[attr];
+			return attrresolve(obj, attr);
 		};
 	}
 	else {

@@ -37,6 +37,14 @@ var xor = function (a, b) {
 exports.xor = xor;
 
 /* js/src/cast */
+/* js/src/cast/_index.js */
+
+var index = function (obj) {
+	return ~~obj;
+};
+
+exports.index = index;
+
 /* js/src/cast/truth.js */
 
 var truth = function (obj) {
@@ -52,7 +60,7 @@ var methodcaller = function (name) {
 
 	var args, caller;
 
-	args = arguments.slice(1);
+	args = Array.prototype.slice.call(arguments, 1);
 
 	caller = function (obj) {
 		return obj[name].apply(obj, args);
@@ -445,7 +453,7 @@ var attrgetter = function () {
 		attr = args[0];
 
 		g = function (obj) {
-			return obj[attr];
+			return attrresolve(obj, attr);
 		};
 	}
 	else {
