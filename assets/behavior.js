@@ -589,6 +589,26 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                   "foldPrefix": "^",
                   "name": "JavaScript"
                 },
+                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/binary/iushift.js",
+                "projectPath": "js/src/num/binary/iushift.js",
+                "targetPath": "num/binary/iushift",
+                "pageTitle": "num/binary/iushift",
+                "title": "iushift"
+              },
+              "depth": 3,
+              "outline": []
+            }, {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
                 "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/binary/lshift.js",
                 "projectPath": "js/src/num/binary/lshift.js",
                 "targetPath": "num/binary/lshift",
@@ -714,6 +734,26 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                 "targetPath": "num/binary/truediv",
                 "pageTitle": "num/binary/truediv",
                 "title": "truediv"
+              },
+              "depth": 3,
+              "outline": []
+            }, {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
+                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/binary/ushift.js",
+                "projectPath": "js/src/num/binary/ushift.js",
+                "targetPath": "num/binary/ushift",
+                "pageTitle": "num/binary/ushift",
+                "title": "ushift"
               },
               "depth": 3,
               "outline": []
