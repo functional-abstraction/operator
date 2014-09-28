@@ -255,6 +255,14 @@ var itruediv = function (a, b) {
 
 exports.itruediv = itruediv;
 
+/* js/src/num/binary/iushift.js */
+
+var iushift = function (a, b) {
+	return a >>>= b;
+};
+
+exports.iushift = iushift;
+
 /* js/src/num/binary/lshift.js */
 
 var lshift = function (a, b) {
@@ -306,6 +314,14 @@ var truediv = function (a, b) {
 };
 
 exports.truediv = truediv;
+
+/* js/src/num/binary/ushift.js */
+
+var ushift = function (a, b) {
+	return a >>> b;
+};
+
+exports.ushift = ushift;
 
 /* js/src/num/bit */
 /* js/src/num/bit/AND.js */
