@@ -1107,6 +1107,86 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               },
               "depth": 3,
               "outline": []
+            }, {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
+                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/unary/pow2.js",
+                "projectPath": "js/src/num/unary/pow2.js",
+                "targetPath": "num/unary/pow2",
+                "pageTitle": "num/unary/pow2",
+                "title": "pow2"
+              },
+              "depth": 3,
+              "outline": []
+            }, {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
+                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/unary/pow3.js",
+                "projectPath": "js/src/num/unary/pow3.js",
+                "targetPath": "num/unary/pow3",
+                "pageTitle": "num/unary/pow3",
+                "title": "pow3"
+              },
+              "depth": 3,
+              "outline": []
+            }, {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
+                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/unary/pow4.js",
+                "projectPath": "js/src/num/unary/pow4.js",
+                "targetPath": "num/unary/pow4",
+                "pageTitle": "num/unary/pow4",
+                "title": "pow4"
+              },
+              "depth": 3,
+              "outline": []
+            }, {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".js"],
+                  "pygmentsLexer": "javascript",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "JavaScript"
+                },
+                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/unary/sqrt.js",
+                "projectPath": "js/src/num/unary/sqrt.js",
+                "targetPath": "num/unary/sqrt",
+                "pageTitle": "num/unary/sqrt",
+                "title": "sqrt"
+              },
+              "depth": 3,
+              "outline": []
             }
           ]
         }
