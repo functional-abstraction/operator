@@ -434,7 +434,9 @@ exports.ne = ne;
 /* js/src/num/unary */
 /* js/src/num/unary/abs.js */
 
-exports.abs = Math.abs;
+var abs = Math.abs;
+
+exports.abs = abs;
 
 /* js/src/num/unary/neg.js */
 
@@ -451,6 +453,38 @@ var pos = function (obj) {
 };
 
 exports.pos = pos;
+
+/* js/src/num/unary/pow2.js */
+
+var pow2 = function (obj) {
+	return obj * obj;
+};
+
+exports.pow2 = pow2;
+
+/* js/src/num/unary/pow3.js */
+
+var pow3 = function (obj) {
+	return obj * obj * obj;
+};
+
+exports.pow3 = pow3;
+
+/* js/src/num/unary/pow4.js */
+
+var pow4 = function (obj) {
+	var tmp;
+	tmp = obj * obj;
+	return tmp * tmp;
+};
+
+exports.pow4 = pow4;
+
+/* js/src/num/unary/sqrt.js */
+
+var sqrt = Math.sqrt;
+
+exports.sqrt = sqrt;
 
 /* js/src/obj */
 /* js/src/obj/attrgetter.js */
