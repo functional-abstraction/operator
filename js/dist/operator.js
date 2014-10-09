@@ -45,6 +45,15 @@ var index = function (obj) {
 
 exports.index = index;
 
+/* js/src/cast/identity.js */
+
+
+var identity = function ( obj ) {
+	return obj;
+};
+
+exports.identity = identity;
+
 /* js/src/cast/truth.js */
 
 var truth = function (obj) {
