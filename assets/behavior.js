@@ -13,7 +13,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
           "commentsOnly": true,
           "name": "Markdown"
         },
-        "sourcePath": "/home/genius/dev/js/js-operator/README.md",
+        "sourcePath": "/home/aureooms/dev/js/js-operator/README.md",
         "projectPath": "README.md",
         "targetPath": "index",
         "pageTitle": "index",
@@ -41,7 +41,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/genius/dev/js/js-operator/js/src/bool/and.js",
+            "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/bool/and.js",
             "projectPath": "js/src/bool/and.js",
             "targetPath": "bool/and",
             "pageTitle": "bool/and",
@@ -61,7 +61,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/genius/dev/js/js-operator/js/src/bool/not.js",
+            "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/bool/not.js",
             "projectPath": "js/src/bool/not.js",
             "targetPath": "bool/not",
             "pageTitle": "bool/not",
@@ -81,7 +81,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/genius/dev/js/js-operator/js/src/bool/or.js",
+            "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/bool/or.js",
             "projectPath": "js/src/bool/or.js",
             "targetPath": "bool/or",
             "pageTitle": "bool/or",
@@ -101,7 +101,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/genius/dev/js/js-operator/js/src/bool/xor.js",
+            "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/bool/xor.js",
             "projectPath": "js/src/bool/xor.js",
             "targetPath": "bool/xor",
             "pageTitle": "bool/xor",
@@ -131,7 +131,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/genius/dev/js/js-operator/js/src/cast/_index.js",
+            "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/cast/_index.js",
             "projectPath": "js/src/cast/_index.js",
             "targetPath": "cast/_index",
             "pageTitle": "cast/_index",
@@ -151,7 +151,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/genius/dev/js/js-operator/js/src/cast/identity.js",
+            "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/cast/identity.js",
             "projectPath": "js/src/cast/identity.js",
             "targetPath": "cast/identity",
             "pageTitle": "cast/identity",
@@ -171,7 +171,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/genius/dev/js/js-operator/js/src/cast/truth.js",
+            "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/cast/truth.js",
             "projectPath": "js/src/cast/truth.js",
             "targetPath": "cast/truth",
             "pageTitle": "cast/truth",
@@ -201,7 +201,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/genius/dev/js/js-operator/js/src/fn/methodcaller.js",
+            "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/fn/methodcaller.js",
             "projectPath": "js/src/fn/methodcaller.js",
             "targetPath": "fn/methodcaller",
             "pageTitle": "fn/methodcaller",
@@ -221,7 +221,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/genius/dev/js/js-operator/js/src/fn/noop.js",
+            "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/fn/noop.js",
             "projectPath": "js/src/fn/noop.js",
             "targetPath": "fn/noop",
             "pageTitle": "fn/noop",
@@ -251,7 +251,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/genius/dev/js/js-operator/js/src/list/concat.js",
+            "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/list/concat.js",
             "projectPath": "js/src/list/concat.js",
             "targetPath": "list/concat",
             "pageTitle": "list/concat",
@@ -271,7 +271,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/genius/dev/js/js-operator/js/src/list/contains.js",
+            "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/list/contains.js",
             "projectPath": "js/src/list/contains.js",
             "targetPath": "list/contains",
             "pageTitle": "list/contains",
@@ -291,7 +291,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/genius/dev/js/js-operator/js/src/list/countOf.js",
+            "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/list/countOf.js",
             "projectPath": "js/src/list/countOf.js",
             "targetPath": "list/countOf",
             "pageTitle": "list/countOf",
@@ -311,7 +311,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/genius/dev/js/js-operator/js/src/list/iconcat.js",
+            "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/list/iconcat.js",
             "projectPath": "js/src/list/iconcat.js",
             "targetPath": "list/iconcat",
             "pageTitle": "list/iconcat",
@@ -331,7 +331,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/genius/dev/js/js-operator/js/src/list/indexOf.js",
+            "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/list/indexOf.js",
             "projectPath": "js/src/list/indexOf.js",
             "targetPath": "list/indexOf",
             "pageTitle": "list/indexOf",
@@ -351,7 +351,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/genius/dev/js/js-operator/js/src/list/len.js",
+            "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/list/len.js",
             "projectPath": "js/src/list/len.js",
             "targetPath": "list/len",
             "pageTitle": "list/len",
@@ -389,7 +389,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                   "foldPrefix": "^",
                   "name": "JavaScript"
                 },
-                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/binary/add.js",
+                "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/num/binary/add.js",
                 "projectPath": "js/src/num/binary/add.js",
                 "targetPath": "num/binary/add",
                 "pageTitle": "num/binary/add",
@@ -409,7 +409,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                   "foldPrefix": "^",
                   "name": "JavaScript"
                 },
-                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/binary/floordiv.js",
+                "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/num/binary/floordiv.js",
                 "projectPath": "js/src/num/binary/floordiv.js",
                 "targetPath": "num/binary/floordiv",
                 "pageTitle": "num/binary/floordiv",
@@ -429,7 +429,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                   "foldPrefix": "^",
                   "name": "JavaScript"
                 },
-                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/binary/iadd.js",
+                "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/num/binary/iadd.js",
                 "projectPath": "js/src/num/binary/iadd.js",
                 "targetPath": "num/binary/iadd",
                 "pageTitle": "num/binary/iadd",
@@ -449,7 +449,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                   "foldPrefix": "^",
                   "name": "JavaScript"
                 },
-                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/binary/ifloordiv.js",
+                "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/num/binary/ifloordiv.js",
                 "projectPath": "js/src/num/binary/ifloordiv.js",
                 "targetPath": "num/binary/ifloordiv",
                 "pageTitle": "num/binary/ifloordiv",
@@ -469,7 +469,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                   "foldPrefix": "^",
                   "name": "JavaScript"
                 },
-                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/binary/ilshift.js",
+                "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/num/binary/ilshift.js",
                 "projectPath": "js/src/num/binary/ilshift.js",
                 "targetPath": "num/binary/ilshift",
                 "pageTitle": "num/binary/ilshift",
@@ -489,7 +489,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                   "foldPrefix": "^",
                   "name": "JavaScript"
                 },
-                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/binary/imod.js",
+                "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/num/binary/imod.js",
                 "projectPath": "js/src/num/binary/imod.js",
                 "targetPath": "num/binary/imod",
                 "pageTitle": "num/binary/imod",
@@ -509,7 +509,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                   "foldPrefix": "^",
                   "name": "JavaScript"
                 },
-                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/binary/imul.js",
+                "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/num/binary/imul.js",
                 "projectPath": "js/src/num/binary/imul.js",
                 "targetPath": "num/binary/imul",
                 "pageTitle": "num/binary/imul",
@@ -529,7 +529,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                   "foldPrefix": "^",
                   "name": "JavaScript"
                 },
-                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/binary/ipow.js",
+                "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/num/binary/ipow.js",
                 "projectPath": "js/src/num/binary/ipow.js",
                 "targetPath": "num/binary/ipow",
                 "pageTitle": "num/binary/ipow",
@@ -549,7 +549,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                   "foldPrefix": "^",
                   "name": "JavaScript"
                 },
-                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/binary/irshift.js",
+                "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/num/binary/irshift.js",
                 "projectPath": "js/src/num/binary/irshift.js",
                 "targetPath": "num/binary/irshift",
                 "pageTitle": "num/binary/irshift",
@@ -569,7 +569,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                   "foldPrefix": "^",
                   "name": "JavaScript"
                 },
-                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/binary/isub.js",
+                "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/num/binary/isub.js",
                 "projectPath": "js/src/num/binary/isub.js",
                 "targetPath": "num/binary/isub",
                 "pageTitle": "num/binary/isub",
@@ -589,7 +589,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                   "foldPrefix": "^",
                   "name": "JavaScript"
                 },
-                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/binary/itruediv.js",
+                "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/num/binary/itruediv.js",
                 "projectPath": "js/src/num/binary/itruediv.js",
                 "targetPath": "num/binary/itruediv",
                 "pageTitle": "num/binary/itruediv",
@@ -609,7 +609,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                   "foldPrefix": "^",
                   "name": "JavaScript"
                 },
-                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/binary/iushift.js",
+                "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/num/binary/iushift.js",
                 "projectPath": "js/src/num/binary/iushift.js",
                 "targetPath": "num/binary/iushift",
                 "pageTitle": "num/binary/iushift",
@@ -629,7 +629,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                   "foldPrefix": "^",
                   "name": "JavaScript"
                 },
-                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/binary/lshift.js",
+                "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/num/binary/lshift.js",
                 "projectPath": "js/src/num/binary/lshift.js",
                 "targetPath": "num/binary/lshift",
                 "pageTitle": "num/binary/lshift",
@@ -649,7 +649,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                   "foldPrefix": "^",
                   "name": "JavaScript"
                 },
-                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/binary/mod.js",
+                "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/num/binary/mod.js",
                 "projectPath": "js/src/num/binary/mod.js",
                 "targetPath": "num/binary/mod",
                 "pageTitle": "num/binary/mod",
@@ -669,7 +669,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                   "foldPrefix": "^",
                   "name": "JavaScript"
                 },
-                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/binary/mul.js",
+                "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/num/binary/mul.js",
                 "projectPath": "js/src/num/binary/mul.js",
                 "targetPath": "num/binary/mul",
                 "pageTitle": "num/binary/mul",
@@ -689,7 +689,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                   "foldPrefix": "^",
                   "name": "JavaScript"
                 },
-                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/binary/pow.js",
+                "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/num/binary/pow.js",
                 "projectPath": "js/src/num/binary/pow.js",
                 "targetPath": "num/binary/pow",
                 "pageTitle": "num/binary/pow",
@@ -709,7 +709,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                   "foldPrefix": "^",
                   "name": "JavaScript"
                 },
-                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/binary/rshift.js",
+                "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/num/binary/rshift.js",
                 "projectPath": "js/src/num/binary/rshift.js",
                 "targetPath": "num/binary/rshift",
                 "pageTitle": "num/binary/rshift",
@@ -729,7 +729,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                   "foldPrefix": "^",
                   "name": "JavaScript"
                 },
-                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/binary/sub.js",
+                "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/num/binary/sub.js",
                 "projectPath": "js/src/num/binary/sub.js",
                 "targetPath": "num/binary/sub",
                 "pageTitle": "num/binary/sub",
@@ -749,7 +749,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                   "foldPrefix": "^",
                   "name": "JavaScript"
                 },
-                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/binary/truediv.js",
+                "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/num/binary/truediv.js",
                 "projectPath": "js/src/num/binary/truediv.js",
                 "targetPath": "num/binary/truediv",
                 "pageTitle": "num/binary/truediv",
@@ -769,7 +769,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                   "foldPrefix": "^",
                   "name": "JavaScript"
                 },
-                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/binary/ushift.js",
+                "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/num/binary/ushift.js",
                 "projectPath": "js/src/num/binary/ushift.js",
                 "targetPath": "num/binary/ushift",
                 "pageTitle": "num/binary/ushift",
@@ -799,7 +799,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                   "foldPrefix": "^",
                   "name": "JavaScript"
                 },
-                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/bit/AND.js",
+                "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/num/bit/AND.js",
                 "projectPath": "js/src/num/bit/AND.js",
                 "targetPath": "num/bit/AND",
                 "pageTitle": "num/bit/AND",
@@ -819,7 +819,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                   "foldPrefix": "^",
                   "name": "JavaScript"
                 },
-                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/bit/IAND.js",
+                "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/num/bit/IAND.js",
                 "projectPath": "js/src/num/bit/IAND.js",
                 "targetPath": "num/bit/IAND",
                 "pageTitle": "num/bit/IAND",
@@ -839,7 +839,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                   "foldPrefix": "^",
                   "name": "JavaScript"
                 },
-                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/bit/IOR.js",
+                "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/num/bit/IOR.js",
                 "projectPath": "js/src/num/bit/IOR.js",
                 "targetPath": "num/bit/IOR",
                 "pageTitle": "num/bit/IOR",
@@ -859,7 +859,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                   "foldPrefix": "^",
                   "name": "JavaScript"
                 },
-                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/bit/IXOR.js",
+                "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/num/bit/IXOR.js",
                 "projectPath": "js/src/num/bit/IXOR.js",
                 "targetPath": "num/bit/IXOR",
                 "pageTitle": "num/bit/IXOR",
@@ -879,7 +879,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                   "foldPrefix": "^",
                   "name": "JavaScript"
                 },
-                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/bit/NOT.js",
+                "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/num/bit/NOT.js",
                 "projectPath": "js/src/num/bit/NOT.js",
                 "targetPath": "num/bit/NOT",
                 "pageTitle": "num/bit/NOT",
@@ -899,7 +899,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                   "foldPrefix": "^",
                   "name": "JavaScript"
                 },
-                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/bit/OR.js",
+                "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/num/bit/OR.js",
                 "projectPath": "js/src/num/bit/OR.js",
                 "targetPath": "num/bit/OR",
                 "pageTitle": "num/bit/OR",
@@ -919,7 +919,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                   "foldPrefix": "^",
                   "name": "JavaScript"
                 },
-                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/bit/XOR.js",
+                "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/num/bit/XOR.js",
                 "projectPath": "js/src/num/bit/XOR.js",
                 "targetPath": "num/bit/XOR",
                 "pageTitle": "num/bit/XOR",
@@ -949,7 +949,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                   "foldPrefix": "^",
                   "name": "JavaScript"
                 },
-                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/cmp/eq.js",
+                "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/num/cmp/eq.js",
                 "projectPath": "js/src/num/cmp/eq.js",
                 "targetPath": "num/cmp/eq",
                 "pageTitle": "num/cmp/eq",
@@ -969,7 +969,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                   "foldPrefix": "^",
                   "name": "JavaScript"
                 },
-                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/cmp/ge.js",
+                "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/num/cmp/ge.js",
                 "projectPath": "js/src/num/cmp/ge.js",
                 "targetPath": "num/cmp/ge",
                 "pageTitle": "num/cmp/ge",
@@ -989,7 +989,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                   "foldPrefix": "^",
                   "name": "JavaScript"
                 },
-                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/cmp/gt.js",
+                "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/num/cmp/gt.js",
                 "projectPath": "js/src/num/cmp/gt.js",
                 "targetPath": "num/cmp/gt",
                 "pageTitle": "num/cmp/gt",
@@ -1009,7 +1009,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                   "foldPrefix": "^",
                   "name": "JavaScript"
                 },
-                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/cmp/le.js",
+                "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/num/cmp/le.js",
                 "projectPath": "js/src/num/cmp/le.js",
                 "targetPath": "num/cmp/le",
                 "pageTitle": "num/cmp/le",
@@ -1029,7 +1029,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                   "foldPrefix": "^",
                   "name": "JavaScript"
                 },
-                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/cmp/lt.js",
+                "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/num/cmp/lt.js",
                 "projectPath": "js/src/num/cmp/lt.js",
                 "targetPath": "num/cmp/lt",
                 "pageTitle": "num/cmp/lt",
@@ -1049,7 +1049,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                   "foldPrefix": "^",
                   "name": "JavaScript"
                 },
-                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/cmp/ne.js",
+                "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/num/cmp/ne.js",
                 "projectPath": "js/src/num/cmp/ne.js",
                 "targetPath": "num/cmp/ne",
                 "pageTitle": "num/cmp/ne",
@@ -1079,7 +1079,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                   "foldPrefix": "^",
                   "name": "JavaScript"
                 },
-                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/unary/abs.js",
+                "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/num/unary/abs.js",
                 "projectPath": "js/src/num/unary/abs.js",
                 "targetPath": "num/unary/abs",
                 "pageTitle": "num/unary/abs",
@@ -1099,7 +1099,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                   "foldPrefix": "^",
                   "name": "JavaScript"
                 },
-                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/unary/neg.js",
+                "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/num/unary/neg.js",
                 "projectPath": "js/src/num/unary/neg.js",
                 "targetPath": "num/unary/neg",
                 "pageTitle": "num/unary/neg",
@@ -1119,7 +1119,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                   "foldPrefix": "^",
                   "name": "JavaScript"
                 },
-                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/unary/pos.js",
+                "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/num/unary/pos.js",
                 "projectPath": "js/src/num/unary/pos.js",
                 "targetPath": "num/unary/pos",
                 "pageTitle": "num/unary/pos",
@@ -1139,7 +1139,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                   "foldPrefix": "^",
                   "name": "JavaScript"
                 },
-                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/unary/pow2.js",
+                "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/num/unary/pow2.js",
                 "projectPath": "js/src/num/unary/pow2.js",
                 "targetPath": "num/unary/pow2",
                 "pageTitle": "num/unary/pow2",
@@ -1159,7 +1159,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                   "foldPrefix": "^",
                   "name": "JavaScript"
                 },
-                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/unary/pow3.js",
+                "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/num/unary/pow3.js",
                 "projectPath": "js/src/num/unary/pow3.js",
                 "targetPath": "num/unary/pow3",
                 "pageTitle": "num/unary/pow3",
@@ -1179,7 +1179,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                   "foldPrefix": "^",
                   "name": "JavaScript"
                 },
-                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/unary/pow4.js",
+                "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/num/unary/pow4.js",
                 "projectPath": "js/src/num/unary/pow4.js",
                 "targetPath": "num/unary/pow4",
                 "pageTitle": "num/unary/pow4",
@@ -1199,7 +1199,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                   "foldPrefix": "^",
                   "name": "JavaScript"
                 },
-                "sourcePath": "/home/genius/dev/js/js-operator/js/src/num/unary/sqrt.js",
+                "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/num/unary/sqrt.js",
                 "projectPath": "js/src/num/unary/sqrt.js",
                 "targetPath": "num/unary/sqrt",
                 "pageTitle": "num/unary/sqrt",
@@ -1231,7 +1231,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/genius/dev/js/js-operator/js/src/obj/attrgetter.js",
+            "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/obj/attrgetter.js",
             "projectPath": "js/src/obj/attrgetter.js",
             "targetPath": "obj/attrgetter",
             "pageTitle": "obj/attrgetter",
@@ -1251,7 +1251,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/genius/dev/js/js-operator/js/src/obj/attrresolve.js",
+            "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/obj/attrresolve.js",
             "projectPath": "js/src/obj/attrresolve.js",
             "targetPath": "obj/attrresolve",
             "pageTitle": "obj/attrresolve",
@@ -1271,7 +1271,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/genius/dev/js/js-operator/js/src/obj/delitem.js",
+            "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/obj/delitem.js",
             "projectPath": "js/src/obj/delitem.js",
             "targetPath": "obj/delitem",
             "pageTitle": "obj/delitem",
@@ -1291,7 +1291,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/genius/dev/js/js-operator/js/src/obj/getitem.js",
+            "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/obj/getitem.js",
             "projectPath": "js/src/obj/getitem.js",
             "targetPath": "obj/getitem",
             "pageTitle": "obj/getitem",
@@ -1311,7 +1311,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/genius/dev/js/js-operator/js/src/obj/is.js",
+            "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/obj/is.js",
             "projectPath": "js/src/obj/is.js",
             "targetPath": "obj/is",
             "pageTitle": "obj/is",
@@ -1331,11 +1331,11 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/genius/dev/js/js-operator/js/src/obj/is_not.js",
-            "projectPath": "js/src/obj/is_not.js",
-            "targetPath": "obj/is_not",
-            "pageTitle": "obj/is_not",
-            "title": "is_not"
+            "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/obj/isnot.js",
+            "projectPath": "js/src/obj/isnot.js",
+            "targetPath": "obj/isnot",
+            "pageTitle": "obj/isnot",
+            "title": "isnot"
           },
           "depth": 2,
           "outline": []
@@ -1351,7 +1351,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/genius/dev/js/js-operator/js/src/obj/itemgetter.js",
+            "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/obj/itemgetter.js",
             "projectPath": "js/src/obj/itemgetter.js",
             "targetPath": "obj/itemgetter",
             "pageTitle": "obj/itemgetter",
@@ -1371,7 +1371,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "foldPrefix": "^",
               "name": "JavaScript"
             },
-            "sourcePath": "/home/genius/dev/js/js-operator/js/src/obj/setitem.js",
+            "sourcePath": "/home/aureooms/dev/js/js-operator/js/src/obj/setitem.js",
             "projectPath": "js/src/obj/setitem.js",
             "targetPath": "obj/setitem",
             "pageTitle": "obj/setitem",
