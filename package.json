@@ -1,6 +1,6 @@
 {
 	"devDependencies": {
-		"aureooms-node-package": "^1.1.3"
+		"aureooms-node-package": "^1.2.0"
 	},
 	"dependencies": {},
 	"version": "0.1.3",

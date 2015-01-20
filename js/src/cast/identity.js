@@ -1,5 +1,4 @@
 
-
 var identity = function ( obj ) {
 	return obj;
 };

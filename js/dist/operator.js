@@ -47,7 +47,6 @@ exports.index = index;
 
 /* js/src/cast/identity.js */
 
-
 var identity = function ( obj ) {
 	return obj;
 };
@@ -579,13 +578,13 @@ var is = function (a, b) {
 
 exports.is = is;
 
-/* js/src/obj/is_not.js */
+/* js/src/obj/isnot.js */
 
-var is_not = function (a, b) {
+var isnot = function (a, b) {
 	return a !== b;
 };
 
-exports.is_not = is_not;
+exports.isnot = isnot;
 
 /* js/src/obj/itemgetter.js */
 
