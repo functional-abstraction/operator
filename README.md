@@ -13,6 +13,7 @@ language operators code bricks for JavaScript
 [![Code Climate](http://img.shields.io/codeclimate/github/aureooms/js-operator.svg?style=flat)](https://codeclimate.com/github/aureooms/js-operator)
 [![NPM downloads per month](http://img.shields.io/npm/dm/aureooms-js-operator.svg?style=flat)](https://www.npmjs.org/package/aureooms-js-operator)
 [![GitHub issues](http://img.shields.io/github/issues/aureooms/js-operator.svg?style=flat)](https://github.com/aureooms/js-operator/issues)
+[![Inline docs](http://inch-ci.org/github/aureooms/js-operator.svg?branch=master&style=shields)](http://inch-ci.org/github/aureooms/js-operator)
 
 
 references:
