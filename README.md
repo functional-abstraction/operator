@@ -1,7 +1,7 @@
 [js-operator](http://aureooms.github.io/js-operator)
 ==
 
-language operators code bricks for JavaScript
+Language operators code bricks for JavaScript.
 
 [![NPM license](http://img.shields.io/npm/l/aureooms-js-operator.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-operator/master/LICENSE)
 [![NPM version](http://img.shields.io/npm/v/aureooms-js-operator.svg?style=flat)](https://www.npmjs.org/package/aureooms-js-operator)
@@ -16,6 +16,6 @@ language operators code bricks for JavaScript
 [![Inline docs](http://inch-ci.org/github/aureooms/js-operator.svg?branch=master&style=shields)](http://inch-ci.org/github/aureooms/js-operator)
 
 
-references:
+## References
 
   - https://docs.python.org/3/library/operator.html
