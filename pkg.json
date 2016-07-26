@@ -2,7 +2,7 @@
 	"src": "js/src/",
 	"out": "js/dist/",
 	"debug": false,
-	"ns": "operator",
+	"name": "operator",
 	"code": {
 		"main": [
 			"js",
