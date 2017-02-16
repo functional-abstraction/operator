@@ -11,7 +11,7 @@
 		"test": "./node_modules/.bin/aureooms-node-package-test"
 	},
 	"license": "AGPL-3.0",
-	"name": "aureooms-js-operator",
+	"name": "@aureooms/js-operator",
 	"keywords": [
 		"bricks",
 		"functional",
