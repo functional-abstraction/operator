@@ -1,6 +1,8 @@
-(function(exports, undefined){
+( function ( ) {
 
-	'use strict';
+'use strict' ;
+
+var definition = function ( exports , undefined ) {
 
 
 /* js/src/bool */
@@ -634,4 +636,16 @@ var setitem = function (a, b, c) {
 
 exports.setitem = setitem;
 
-})(typeof exports === 'undefined' ? this['operator'] = {} : exports);
+return exports ;
+} ;
+if ( typeof exports === "object" ) {
+	definition( exports ) ;
+}
+else if ( typeof define === "function" && define.amd ) {
+	define( "@aureooms/js-operator" , [ ] , function ( ) { return definition( { } ) ; } ) ;
+}
+else if ( typeof window === "object" && typeof window.document === "object" ) {
+	definition( window["operator"] = { } ) ;
+}
+else console.error( "unable to detect type of module to define for @aureooms/js-operator") ;
+} )( ) ;
