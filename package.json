@@ -22,11 +22,11 @@
 	"main": "js/dist/operator.js",
 	"homepage": "http://make-github-pseudonymous-again.github.io/js-operator/",
 	"repository": {
-		"url": "https://github.com/aureooms/js-operator.git",
+		"url": "https://github.com/make-github-pseudonymous-again/js-operator.git",
 		"type": "git"
 	},
 	"description": "language operators code bricks for JavaScript",
 	"bugs": {
-		"url": "https://github.com/aureooms/js-operator/issues"
+		"url": "https://github.com/make-github-pseudonymous-again/js-operator/issues"
 	}
 }
