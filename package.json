@@ -20,7 +20,7 @@
 		"operator"
 	],
 	"main": "js/dist/operator.js",
-	"homepage": "http://aureooms.github.io/js-operator/",
+	"homepage": "http://make-github-pseudonymous-again.github.io/js-operator/",
 	"repository": {
 		"url": "https://github.com/aureooms/js-operator.git",
 		"type": "git"
