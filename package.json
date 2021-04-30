@@ -28,7 +28,7 @@
   "version": "1.0.2",
   "author": "aureooms",
   "scripts": {
-    "build": "./node_modules/.bin/aureooms-node-package-build",
+    "build": "NODE_ENV=production microbundle",
     "test": "ava",
     "esdoc": null,
     "lint": "true"
@@ -42,7 +42,7 @@
     "js",
     "operator"
   ],
-  "main": "js/dist/operator.js",
+  "main": "dist/index.js",
   "homepage": "http://make-github-pseudonymous-again.github.io/js-operator/",
   "repository": {
     "url": "https://github.com/make-github-pseudonymous-again/js-operator.git",
