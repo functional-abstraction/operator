@@ -28,9 +28,9 @@
   "version": "1.0.2",
   "author": "aureooms",
   "scripts": {
-    "doc": "./node_modules/.bin/groc",
     "build": "./node_modules/.bin/aureooms-node-package-build",
-    "test": "./node_modules/.bin/aureooms-node-package-test"
+    "test": "./node_modules/.bin/aureooms-node-package-test",
+    "esdoc": null
   },
   "license": "AGPL-3.0",
   "name": "@aureooms/js-operator",
