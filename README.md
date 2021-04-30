@@ -1,4 +1,4 @@
-[js-operator](http://make-github-pseudonymous-again.github.io/js-operator)
+[@aureooms/js-operator](https://make-github-pseudonymous-again.github.io/js-operator)
 ==
 
 Language operators code bricks for JavaScript.
