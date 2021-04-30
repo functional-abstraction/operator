@@ -37,8 +37,7 @@
     "lint-config-and-fix": "fixpack || fixpack",
     "prepare": "npm run build",
     "release": "np --message ':hatching_chick: release: Bumping to v%s.'",
-    "test": "ava",
-    "travis": null
+    "test": "ava"
   },
   "dependencies": {},
   "devDependencies": {
