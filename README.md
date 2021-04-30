@@ -15,7 +15,7 @@ Language operators code bricks for JavaScript.
 [![Code maintainability](https://img.shields.io/codeclimate/maintainability/make-github-pseudonymous-again/js-operator.svg)](https://codeclimate.com/github/make-github-pseudonymous-again/js-operator/trends/churn)
 [![Code coverage (cov)](https://img.shields.io/codecov/c/gh/make-github-pseudonymous-again/js-operator/main.svg)](https://codecov.io/gh/make-github-pseudonymous-again/js-operator)
 [![Code technical debt](https://img.shields.io/codeclimate/tech-debt/make-github-pseudonymous-again/js-operator.svg)](https://codeclimate.com/github/make-github-pseudonymous-again/js-operator/trends/technical_debt)
-[![Documentation](https://make-github-pseudonymous-again.github.io/js-operator//badge.svg)](https://make-github-pseudonymous-again.github.io/js-operator//source.html)
+[![Documentation](https://make-github-pseudonymous-again.github.io/js-operator/badge.svg)](https://make-github-pseudonymous-again.github.io/js-operator/source.html)
 [![Package size](https://img.shields.io/bundlephobia/minzip/@aureooms/js-operator)](https://bundlephobia.com/result?p=@aureooms/js-operator)
 
 
