@@ -1,5 +1,5 @@
 
-var itemgetter = function () {
+export function itemgetter () {
 	var len, attr, g, args;
 
 	args = arguments;
@@ -33,6 +33,5 @@ var itemgetter = function () {
 
 
 	return g;
-};
+}
 
-exports.itemgetter = itemgetter;

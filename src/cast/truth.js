@@ -1,6 +1,5 @@
 
-var truth = function (obj) {
+export function truth (obj) {
 	return !!obj;
-};
+}
 
-exports.truth = truth;

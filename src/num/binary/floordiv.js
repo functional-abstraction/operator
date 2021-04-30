@@ -1,6 +1,5 @@
 
-var floordiv = function (a, b) {
+export function floordiv (a, b) {
 	return a / b | 0;
-};
+}
 
-exports.floordiv = floordiv;

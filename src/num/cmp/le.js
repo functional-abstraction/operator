@@ -1,6 +1,5 @@
 
-var le = function (a, b) {
+export function le (a, b) {
 	return a <= b;
-};
+}
 
-exports.le = le;

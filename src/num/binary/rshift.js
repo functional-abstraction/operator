@@ -1,6 +1,5 @@
 
-var rshift = function (a, b) {
+export function rshift (a, b) {
 	return a >> b;
-};
+}
 
-exports.rshift = rshift;

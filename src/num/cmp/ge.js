@@ -1,6 +1,5 @@
 
-var ge = function (a, b) {
+export function ge (a, b) {
 	return a >= b;
-};
+}
 
-exports.ge = ge;

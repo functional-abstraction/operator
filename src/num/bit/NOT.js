@@ -1,8 +1,5 @@
 
-var NOT = function (obj) {
+export function NOT (obj) {
 	return ~obj;
-};
+}
 
-exports.inv = NOT;
-exports.invert = NOT;
-exports.NOT = NOT;

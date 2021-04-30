@@ -1,6 +1,5 @@
 
-var irshift = function (a, b) {
+export function irshift (a, b) {
 	return a >>= b;
-};
+}
 
-exports.irshift = irshift;

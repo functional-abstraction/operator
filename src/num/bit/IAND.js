@@ -1,6 +1,5 @@
 
-var IAND = function (a, b) {
+export function IAND (a, b) {
 	return a &= b;
-};
+}
 
-exports.IAND = IAND;

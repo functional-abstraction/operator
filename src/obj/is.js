@@ -1,6 +1,5 @@
 
-var is = function (a, b) {
+export function is (a, b) {
 	return a === b;
-};
+}
 
-exports.is = is;

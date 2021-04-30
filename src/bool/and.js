@@ -1,6 +1,5 @@
 
-var and = function (a, b) {
+export function and (a, b) {
 	return a && b;
-};
+}
 
-exports.and = and;

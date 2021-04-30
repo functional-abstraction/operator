@@ -1,5 +1,5 @@
 
-var attrgetter = function () {
+export function attrgetter () {
 	var len, attr, g, args;
 
 	args = arguments;
@@ -31,6 +31,5 @@ var attrgetter = function () {
 	}
 
 	return g;
-};
+}
 
-exports.attrgetter = attrgetter;

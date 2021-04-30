@@ -1,5 +1,5 @@
 
-var indexOf = function (a, b) {
+export function indexOf (a, b) {
 	var i, len;
 
 	len = a.length;
@@ -11,6 +11,5 @@ var indexOf = function (a, b) {
 	}
 
 	return -1;
-};
+}
 
-exports.indexOf = indexOf;

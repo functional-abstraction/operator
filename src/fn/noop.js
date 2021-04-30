@@ -1,4 +1,3 @@
 
-var noop = function () {};
+export function noop () {};
 
-exports.noop = noop;

@@ -1,6 +1,5 @@
 
-var iushift = function (a, b) {
+export function iushift (a, b) {
 	return a >>>= b;
-};
+}
 
-exports.iushift = iushift;

@@ -1,6 +1,5 @@
 
-var mod = function (a, b) {
+export function mod (a, b) {
 	return a % b;
-};
+}
 
-exports.mod = mod;

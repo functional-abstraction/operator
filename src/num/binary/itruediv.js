@@ -1,6 +1,5 @@
 
-var itruediv = function (a, b) {
+export function itruediv (a, b) {
 	return a /= b;
-};
+}
 
-exports.itruediv = itruediv;

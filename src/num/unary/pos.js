@@ -1,6 +1,5 @@
 
-var pos = function (obj) {
+export function pos (obj) {
 	return +obj;
-};
+}
 
-exports.pos = pos;

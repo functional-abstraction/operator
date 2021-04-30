@@ -1,6 +1,5 @@
 
-var setitem = function (a, b, c) {
+export function setitem (a, b, c) {
 	a[b] = c;
-};
+}
 
-exports.setitem = setitem;

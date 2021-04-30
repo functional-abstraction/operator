@@ -1,6 +1,5 @@
 
-var imod = function (a, b) {
+export function imod (a, b) {
 	return a %= b;
-};
+}
 
-exports.imod = imod;

@@ -1,6 +1,5 @@
 
-var identity = function ( obj ) {
+export function identity ( obj ) {
 	return obj;
-};
+}
 
-exports.identity = identity;

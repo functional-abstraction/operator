@@ -1,6 +1,5 @@
 
-var ipow = function (a, b) {
+export function ipow (a, b) {
 	return a = Math.pow(a, b);
-};
+}
 
-exports.ipow = ipow;

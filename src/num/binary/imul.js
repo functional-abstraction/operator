@@ -1,6 +1,5 @@
 
-var imul = function (a, b) {
+export function imul (a, b) {
 	return a *= b;
-};
+}
 
-exports.imul = imul;

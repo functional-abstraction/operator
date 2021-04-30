@@ -1,6 +1,5 @@
 
-var len = function (obj) {
+export function len (obj) {
 	return obj.length;
-};
+}
 
-exports.len = len;

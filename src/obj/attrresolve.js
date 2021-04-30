@@ -1,5 +1,5 @@
 
-var attrresolve = function (obj, attr) {
+export function attrresolve (obj, attr) {
 
 	var parts, i, len, name;
 
@@ -14,6 +14,5 @@ var attrresolve = function (obj, attr) {
 
     return obj;
 
-};
+}
 
-exports.attrresolve = attrresolve;

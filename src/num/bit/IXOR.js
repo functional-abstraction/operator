@@ -1,6 +1,5 @@
 
-var IXOR = function (a, b) {
+export function IXOR (a, b) {
 	return a ^= b;
-};
+}
 
-exports.IXOR = IXOR;

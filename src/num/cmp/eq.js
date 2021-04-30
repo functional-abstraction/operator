@@ -1,6 +1,5 @@
 
-var eq = function (a, b) {
+export function eq (a, b) {
 	return a == b;
-};
+}
 
-exports.eq = eq;

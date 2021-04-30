@@ -1,6 +1,5 @@
 
-var index = function (obj) {
+export function index (obj) {
 	return ~~obj;
-};
+}
 
-exports.index = index;

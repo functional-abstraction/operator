@@ -1,5 +1,5 @@
 
-var contains = function (a, b) {
+export function contains (a, b) {
 	var i, len;
 
 	len = a.length;
@@ -11,6 +11,5 @@ var contains = function (a, b) {
 	}
 
 	return false;
-};
+}
 
-exports.contains = contains;

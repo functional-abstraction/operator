@@ -1,6 +1,5 @@
 
-var ne = function (a, b) {
+export function ne (a, b) {
 	return a != b;
-};
+}
 
-exports.ne = ne;

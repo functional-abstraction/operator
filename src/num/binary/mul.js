@@ -1,6 +1,5 @@
 
-var mul = function (a, b) {
+export function mul (a, b) {
 	return a * b;
-};
+}
 
-exports.mul = mul;

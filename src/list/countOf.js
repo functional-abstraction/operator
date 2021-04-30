@@ -1,5 +1,5 @@
 
-var countOf = function (a, b) {
+export function countOf (a, b) {
 	var i, len, n;
 
 	n = 0;
@@ -12,6 +12,5 @@ var countOf = function (a, b) {
 	}
 
 	return n;
-};
+}
 
-exports.countOf = countOf;

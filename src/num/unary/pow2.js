@@ -1,6 +1,5 @@
 
-var pow2 = function (obj) {
+export function pow2 (obj) {
 	return obj * obj;
-};
+}
 
-exports.pow2 = pow2;

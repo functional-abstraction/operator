@@ -1,6 +1,5 @@
 
-var ilshift = function (a, b) {
+export function ilshift (a, b) {
 	return a <<= b;
-};
+}
 
-exports.ilshift = ilshift;

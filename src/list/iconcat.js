@@ -1,5 +1,5 @@
 
-var iconcat = function (a, b) {
+export function iconcat (a, b) {
 	var i, len;
 
 	len = b.length;
@@ -9,6 +9,5 @@ var iconcat = function (a, b) {
 	}
 
 	return a;
-};
+}
 
-exports.iconcat = iconcat;

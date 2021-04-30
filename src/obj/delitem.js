@@ -1,6 +1,5 @@
 
-var delitem = function (a, b) {
+export function delitem (a, b) {
 	delete a[b];
-};
+}
 
-exports.delitem = delitem;

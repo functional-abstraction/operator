@@ -1,6 +1,5 @@
 
-var neg = function (obj) {
+export function neg (obj) {
 	return -obj;
-};
+}
 
-exports.neg = neg;

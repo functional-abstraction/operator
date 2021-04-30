@@ -1,6 +1,5 @@
 
-var gt = function (a, b) {
+export function gt (a, b) {
 	return a > b;
-};
+}
 
-exports.gt = gt;

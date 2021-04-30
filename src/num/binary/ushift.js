@@ -1,6 +1,5 @@
 
-var ushift = function (a, b) {
+export function ushift (a, b) {
 	return a >>> b;
-};
+}
 
-exports.ushift = ushift;

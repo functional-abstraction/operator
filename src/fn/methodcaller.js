@@ -1,5 +1,5 @@
 
-var methodcaller = function (name) {
+export function methodcaller (name) {
 
 	var args, caller;
 
@@ -10,6 +10,5 @@ var methodcaller = function (name) {
 	};
 
 	return caller;
-};
+}
 
-exports.methodcaller = methodcaller;

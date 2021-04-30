@@ -1,4 +1,3 @@
 
-var sqrt = Math.sqrt;
+export var sqrt = Math.sqrt;
 
-exports.sqrt = sqrt;

@@ -1,6 +1,5 @@
 
-var OR = function (a, b) {
+export function OR (a, b) {
 	return a | b;
-};
+}
 
-exports.OR = OR;

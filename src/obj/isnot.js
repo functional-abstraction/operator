@@ -1,6 +1,5 @@
 
-var isnot = function (a, b) {
+export function isnot (a, b) {
 	return a !== b;
-};
+}
 
-exports.isnot = isnot;

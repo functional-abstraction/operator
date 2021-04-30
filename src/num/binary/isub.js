@@ -1,6 +1,5 @@
 
-var isub = function (a, b) {
+export function isub (a, b) {
 	return a -= b;
-};
+}
 
-exports.isub = isub;

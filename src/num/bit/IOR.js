@@ -1,6 +1,5 @@
 
-var IOR = function (a, b) {
+export function IOR (a, b) {
 	return a |= b;
-};
+}
 
-exports.IOR = IOR;

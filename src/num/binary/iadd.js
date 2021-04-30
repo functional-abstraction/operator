@@ -1,6 +1,5 @@
 
-var iadd = function (a, b) {
+export function iadd (a, b) {
 	return a += b;
-};
+}
 
-exports.iadd = iadd;

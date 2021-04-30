@@ -1,6 +1,5 @@
 
-var lt = function (a, b) {
+export function lt (a, b) {
 	return a < b;
-};
+}
 
-exports.lt = lt;

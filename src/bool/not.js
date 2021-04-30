@@ -1,6 +1,5 @@
 
-var not = function (obj) {
+export function not (obj) {
 	return !obj;
-};
+}
 
-exports.not = not;

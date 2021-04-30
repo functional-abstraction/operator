@@ -1,6 +1,5 @@
 
-var XOR = function (a, b) {
+export function XOR (a, b) {
 	return a ^ b;
-};
+}
 
-exports.XOR = XOR;
