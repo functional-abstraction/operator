@@ -50,5 +50,89 @@
   "description": "language operators code bricks for JavaScript",
   "bugs": {
     "url": "https://github.com/make-github-pseudonymous-again/js-operator/issues"
+  },
+  "babel": {
+    "sourceMaps": true,
+    "presets": [
+      [
+        "@babel/preset-env",
+        {
+          "targets": "current node"
+        }
+      ]
+    ],
+    "plugins": [
+      [
+        "transform-remove-console",
+        {
+          "exclude": [
+            "log",
+            "error",
+            "warn"
+          ]
+        }
+      ]
+    ],
+    "env": {
+      "debug": {
+        "presets": [
+          "babel-preset-power-assert"
+        ],
+        "plugins": [
+          [
+            "transform-remove-console",
+            {
+              "exclude": [
+                "debug",
+                "log",
+                "error",
+                "warn"
+              ]
+            }
+          ]
+        ]
+      },
+      "test": {
+        "presets": [
+          "babel-preset-power-assert"
+        ]
+      },
+      "cover": {
+        "sourceMaps": "both",
+        "presets": [
+          "babel-preset-power-assert"
+        ]
+      },
+      "development": {
+        "presets": [
+          [
+            "@babel/preset-env",
+            {
+              "targets": [
+                "defaults",
+                "maintained node versions"
+              ]
+            }
+          ],
+          "babel-preset-power-assert"
+        ]
+      },
+      "production": {
+        "presets": [
+          [
+            "@babel/preset-env",
+            {
+              "targets": [
+                "defaults",
+                "maintained node versions"
+              ]
+            }
+          ]
+        ],
+        "plugins": [
+          "babel-plugin-unassert"
+        ]
+      }
+    }
   }
 }
