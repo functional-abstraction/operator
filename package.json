@@ -139,7 +139,7 @@
   "license": "AGPL-3.0",
   "main": "dist/index.js",
   "repository": {
-    "url": "https://github.com/make-github-pseudonymous-again/js-operator.git",
+    "url": "https://github.com/make-github-pseudonymous-again/js-operator",
     "type": "git"
   },
   "scripts": {
