@@ -1,16 +1,16 @@
 import test from 'ava';
 import * as operator from '../../../../src/index.js';
 
-test( "ipow", t => {
+const macro = (t, a, b) => {
+	t.deepEqual(operator.ipow(a, b), (a **= b));
+};
 
-	var a, b, i, n;
+macro.title = (title, a, b) => title ?? `${a} **= ${b}`;
 
-	n = 10;
+const n = 10;
 
-	for (i = 0; i < n; ++i) {
-		a = Math.random();
-		b = Math.random();
-		t.deepEqual(operator.ipow(a, b), a = Math.pow(a, b), "a = Math.pow(" + a + ", " + b + ")");
-	};
-
-});
+for (let i = 0; i < n; ++i) {
+	const a = Math.random();
+	const b = Math.random();
+	test(macro, a, b);
+}

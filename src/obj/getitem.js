@@ -1,5 +1,3 @@
-
-export function getitem (a, b) {
+export function getitem(a, b) {
 	return a[b];
 }
-

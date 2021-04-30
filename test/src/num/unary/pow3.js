@@ -1,15 +1,15 @@
 import test from 'ava';
 import * as operator from '../../../../src/index.js';
 
-test( "pow3", t => {
+const macro = (t, a) => {
+	t.deepEqual(operator.pow3(a), a ** 3);
+};
 
-	var a, i, n;
+macro.title = (title, a) => title ?? `${a} ** 3`;
 
-	n = 10;
+const n = 10;
 
-	for (i = 0; i < n; ++i) {
-		a = Math.floor(Math.random() * Math.pow(2, 10)) - Math.pow(2, 9);
-		t.deepEqual(operator.pow3(a), a * a * a, a + "^3");
-	};
-
-});
+for (let i = 0; i < n; ++i) {
+	const a = Math.floor(Math.random() * 2 ** 10) - 2 ** 9;
+	test(macro, a);
+}

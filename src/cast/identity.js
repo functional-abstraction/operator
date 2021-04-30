@@ -1,4 +1,3 @@
-
-export function identity ( obj ) {
+export function identity(obj) {
 	return obj;
 }

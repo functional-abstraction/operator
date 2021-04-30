@@ -1,35 +1,23 @@
 import test from 'ava';
 import * as operator from '../../../src/index.js';
 
-test( "isnot", t => {
+const macro = (t, a, b) => {
+	t.deepEqual(operator.isnot(a, b), a !== b);
+};
 
-	var a, b, i, n;
+macro.title = (title, a, b) => title ?? `${a} !== ${b}`;
 
-	n = 10;
+const n = 10;
 
-	for (i = 0; i < n; ++i) {
-		a = Math.floor(Math.random() * Math.pow(2, 32));
-		b = Math.floor(Math.random() * Math.pow(2, 32));
-		t.deepEqual(operator.isnot(a, b), a !== b, a + " !== " + b);
-	};
+for (let i = 0; i < n; ++i) {
+	const a = Math.floor(Math.random() * 2 ** 32);
+	const b = Math.floor(Math.random() * 2 ** 32);
+	test(macro, a, b);
+}
 
-	a = true;
-	b = true;
-	t.deepEqual(operator.isnot(a, b), a !== b, a + " !== " + b);
-	a = true;
-	b = 1;
-	t.deepEqual(operator.isnot(a, b), a !== b, a + " !== " + b);
-	a = 1;
-	b = true;
-	t.deepEqual(operator.isnot(a, b), a !== b, a + " !== " + b);
-	a = false;
-	b = false;
-	t.deepEqual(operator.isnot(a, b), a !== b, a + " !== " + b);
-	a = false;
-	b = 0;
-	t.deepEqual(operator.isnot(a, b), a !== b, a + " !== " + b);
-	a = 0;
-	b = false;
-	t.deepEqual(operator.isnot(a, b), a !== b, a + " !== " + b);
-
-});
+test(macro, true, true);
+test(macro, true, 1);
+test(macro, 1, true);
+test(macro, false, false);
+test(macro, false, 0);
+test(macro, 0, false);

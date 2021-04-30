@@ -1,5 +1,3 @@
-
-export function lt (a, b) {
+export function lt(a, b) {
 	return a < b;
 }
-

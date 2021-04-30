@@ -1,18 +1,12 @@
+export function attrresolve(obj, attr) {
+	const parts = attr.split('.');
 
-export function attrresolve (obj, attr) {
+	const len = parts.length;
 
-	var parts, i, len, name;
+	for (let i = 0; i < len; ++i) {
+		const name = parts[i];
+		obj = obj[name];
+	}
 
-	parts = attr.split(".");
-
-	len = parts.length;
-
-    for (i = 0; i < len; ++i) {
-    	name = parts[i];
-        obj = obj[name];
-    }
-
-    return obj;
-
+	return obj;
 }
-

@@ -1,5 +1,4 @@
-
-export function irshift (a, b) {
-	return a >>= b;
+export function irshift(a, b) {
+	// eslint-disable-next-line no-return-assign
+	return (a >>= b);
 }
-

@@ -1,16 +1,16 @@
 import test from 'ava';
 import * as operator from '../../../../src/index.js';
 
-test( "floordiv", t => {
+const macro = (t, a, b) => {
+	t.deepEqual(operator.floordiv(a, b), (a / b) | 0);
+};
 
-	var a, b, i, n;
+macro.title = (title, a, b) => title ?? `(${a} / ${b}) | 0`;
 
-	n = 10;
+const n = 10;
 
-	for (i = 0; i < n; ++i) {
-		a = Math.random();
-		b = Math.random();
-		t.deepEqual(operator.floordiv(a, b), a / b | 0, a + " / " + b + " | 0");
-	};
-
-});
+for (let i = 0; i < n; ++i) {
+	const a = Math.random();
+	const b = Math.random();
+	test(macro, a, b);
+}

@@ -1,5 +1,3 @@
-
-export function rshift (a, b) {
+export function rshift(a, b) {
 	return a >> b;
 }
-

@@ -1,5 +1,3 @@
-
-export function floordiv (a, b) {
-	return a / b | 0;
+export function floordiv(a, b) {
+	return (a / b) | 0;
 }
-

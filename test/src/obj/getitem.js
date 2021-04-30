@@ -1,18 +1,14 @@
 import test from 'ava';
 import * as operator from '../../../src/index.js';
 
-test( "getitem", t => {
-
-	var getter, obj;
-
-	obj = {
-		name : "john",
-		size : { cm : 170 },
-		"size.cm" : 180
+test('getitem', (t) => {
+	const obj = {
+		name: 'john',
+		size: {cm: 170},
+		'size.cm': 180,
 	};
 
-	t.deepEqual(operator.getitem(obj, "name"), "john", "getitem name");
+	t.is(operator.getitem(obj, 'name'), 'john', 'getitem name');
 
-	t.deepEqual(operator.getitem(obj, "size.cm"), 180, "getitem size.cm");
-
+	t.is(operator.getitem(obj, 'size.cm'), 180, 'getitem size.cm');
 });

@@ -1,5 +1,3 @@
-
-export function mod (a, b) {
+export function mod(a, b) {
 	return a % b;
 }
-

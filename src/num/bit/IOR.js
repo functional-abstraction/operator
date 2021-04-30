@@ -1,5 +1,4 @@
-
-export function IOR (a, b) {
-	return a |= b;
+export function IOR(a, b) {
+	// eslint-disable-next-line no-return-assign
+	return (a |= b);
 }
-

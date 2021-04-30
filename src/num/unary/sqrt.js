@@ -1,3 +1,1 @@
-
-export var sqrt = Math.sqrt;
-
+export const sqrt = Math.sqrt;

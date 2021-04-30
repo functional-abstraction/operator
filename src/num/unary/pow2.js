@@ -1,5 +1,3 @@
-
-export function pow2 (obj) {
+export function pow2(obj) {
 	return obj * obj;
 }
-

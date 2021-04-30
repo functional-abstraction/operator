@@ -1,5 +1,3 @@
-
-export function pos (obj) {
-	return +obj;
+export function pos(obj) {
+	return Number(obj);
 }
-

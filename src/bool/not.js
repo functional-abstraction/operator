@@ -1,5 +1,3 @@
-
-export function not (obj) {
+export function not(obj) {
 	return !obj;
 }
-

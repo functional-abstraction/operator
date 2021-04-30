@@ -1,5 +1,4 @@
-
-export function IAND (a, b) {
-	return a &= b;
+export function IAND(a, b) {
+	// eslint-disable-next-line no-return-assign
+	return (a &= b);
 }
-

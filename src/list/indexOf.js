@@ -1,10 +1,7 @@
+export function indexOf(a, b) {
+	const len = a.length;
 
-export function indexOf (a, b) {
-	var i, len;
-
-	len = a.length;
-
-	for (i = 0; i < len; ++i) {
+	for (let i = 0; i < len; ++i) {
 		if (b === a[i]) {
 			return i;
 		}
@@ -12,4 +9,3 @@ export function indexOf (a, b) {
 
 	return -1;
 }
-

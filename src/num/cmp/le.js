@@ -1,5 +1,3 @@
-
-export function le (a, b) {
+export function le(a, b) {
 	return a <= b;
 }
-

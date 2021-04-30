@@ -1,11 +1,14 @@
 import test from 'ava';
 import * as operator from '../../../src/index.js';
 
-test( "xor", t => {
+const macro = (t, a, b, expected) => {
+	t.is(operator.xor(a, b), expected);
+};
 
-	t.deepEqual(operator.xor(true, true), false, "true xor true");
-	t.deepEqual(operator.xor(true, false), true, "true xor false");
-	t.deepEqual(operator.xor(false, true), true, "false xor true");
-	t.deepEqual(operator.xor(false, false), false, "false xor false");
+macro.title = (title, a, b, expected) =>
+	title ?? `${a} xor ${b} is ${expected}`;
 
-});
+test(macro, true, true, false);
+test(macro, true, false, true);
+test(macro, false, true, true);
+test(macro, false, false, false);

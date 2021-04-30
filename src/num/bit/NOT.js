@@ -1,5 +1,3 @@
-
-export function NOT (obj) {
+export function NOT(obj) {
 	return ~obj;
 }
-

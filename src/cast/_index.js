@@ -1,5 +1,3 @@
-
-export function index (obj) {
+export function index(obj) {
 	return ~~obj;
 }
-

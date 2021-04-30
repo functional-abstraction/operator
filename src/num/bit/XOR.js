@@ -1,5 +1,3 @@
-
-export function XOR (a, b) {
+export function XOR(a, b) {
 	return a ^ b;
 }
-

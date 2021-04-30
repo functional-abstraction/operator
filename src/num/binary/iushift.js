@@ -1,5 +1,4 @@
-
-export function iushift (a, b) {
-	return a >>>= b;
+export function iushift(a, b) {
+	// eslint-disable-next-line no-return-assign
+	return (a >>>= b);
 }
-

@@ -1,5 +1,3 @@
-
-export function and (a, b) {
+export function and(a, b) {
 	return a && b;
 }
-

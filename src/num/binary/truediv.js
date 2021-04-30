@@ -1,5 +1,3 @@
-
-export function truediv (a, b) {
+export function truediv(a, b) {
 	return a / b;
 }
-

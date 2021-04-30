@@ -1,5 +1,1 @@
-
-export function is (a, b) {
-	return a === b;
-}
-
+export const is = (a, b) => a === b;

@@ -1,5 +1,3 @@
-
-export function truth (obj) {
-	return !!obj;
+export function truth(obj) {
+	return Boolean(obj);
 }
-

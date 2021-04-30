@@ -1,5 +1,3 @@
-
-export function gt (a, b) {
+export function gt(a, b) {
 	return a > b;
 }
-

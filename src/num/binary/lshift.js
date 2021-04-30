@@ -1,5 +1,3 @@
-
-export function lshift (a, b) {
+export function lshift(a, b) {
 	return a << b;
 }
-

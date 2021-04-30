@@ -1,5 +1,1 @@
-
-export function len (obj) {
-	return obj.length;
-}
-
+export const len = (obj) => obj.length;

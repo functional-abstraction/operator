@@ -1,3 +1,1 @@
-
-export var abs = Math.abs;
-
+export const abs = Math.abs;

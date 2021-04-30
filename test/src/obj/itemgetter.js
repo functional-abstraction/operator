@@ -1,30 +1,26 @@
 import test from 'ava';
 import * as operator from '../../../src/index.js';
 
-test( "itemgetter", t => {
-
-	var getter, obj;
-
-	obj = {
-		name : "john",
-		size : { cm : 170 },
-		"size.cm" : 180
+test('itemgetter', (t) => {
+	const obj = {
+		name: 'john',
+		size: {cm: 170},
+		'size.cm': 180,
 	};
 
-	getter = operator.itemgetter();
+	let getter = operator.itemgetter();
 
-	t.deepEqual(getter(obj), undefined, "itemgetter");
+	t.is(getter(obj), undefined, 'itemgetter');
 
-	getter = operator.itemgetter("name");
+	getter = operator.itemgetter('name');
 
-	t.deepEqual(getter(obj), "john", "itemgetter name");
+	t.is(getter(obj), 'john', 'itemgetter name');
 
-	getter = operator.itemgetter("size.cm");
+	getter = operator.itemgetter('size.cm');
 
-	t.deepEqual(getter(obj), 180, "itemgetter size.cm");
+	t.is(getter(obj), 180, 'itemgetter size.cm');
 
-	getter = operator.itemgetter("name", "size.cm");
+	getter = operator.itemgetter('name', 'size.cm');
 
-	t.deepEqual(getter(obj), ["john", 180], "itemgetter name size.cm");
-
+	t.deepEqual(getter(obj), ['john', 180], 'itemgetter name size.cm');
 });

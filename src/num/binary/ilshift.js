@@ -1,5 +1,4 @@
-
-export function ilshift (a, b) {
-	return a <<= b;
+export function ilshift(a, b) {
+	// eslint-disable-next-line no-return-assign
+	return (a <<= b);
 }
-

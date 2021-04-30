@@ -1,5 +1,3 @@
-
-export function ushift (a, b) {
+export function ushift(a, b) {
 	return a >>> b;
 }
-

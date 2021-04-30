@@ -1,5 +1,1 @@
-
-export function isnot (a, b) {
-	return a !== b;
-}
-
+export const isnot = (a, b) => a !== b;

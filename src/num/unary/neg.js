@@ -1,5 +1,3 @@
-
-export function neg (obj) {
+export function neg(obj) {
 	return -obj;
 }
-
