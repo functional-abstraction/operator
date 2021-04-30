@@ -33,7 +33,8 @@
     "esdoc": null,
     "lint": "true",
     "prepare": "npm run build",
-    "cover": "NODE_ENV=cover c8 --all --src src --reporter lcov --reporter text-summary --reporter text npm test"
+    "cover": "NODE_ENV=cover c8 --all --src src --reporter lcov --reporter text-summary --reporter text npm test",
+    "dev": "npm run lint-config-and-fix && npm run lint-and-fix && npm run cover -- -- -st --fail-fast"
   },
   "license": "AGPL-3.0",
   "name": "@aureooms/js-operator",
