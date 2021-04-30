@@ -1,4 +1,6 @@
+import test from 'ava';
+import * as operator from '../../../src';
 
-test("noop", function () {
-	deepEqual(operator.noop(), undefined, "noop() === undefined");
+test( "noop", t => {
+	t.deepEqual(operator.noop(), undefined, "noop() === undefined");
 });

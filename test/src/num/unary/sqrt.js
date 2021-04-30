@@ -1,5 +1,7 @@
+import test from 'ava';
+import * as operator from '../../../../src';
 
-test("sqrt", function () {
+test( "sqrt", t => {
 
 	var a, i, n;
 
@@ -7,7 +9,7 @@ test("sqrt", function () {
 
 	for (i = 0; i < n; ++i) {
 		a = Math.floor(Math.random() * Math.pow(2, 32)) - Math.pow(2, 31);
-		deepEqual(operator.sqrt(a), Math.sqrt(a), "sqrt " + a);
+		t.deepEqual(operator.sqrt(a), Math.sqrt(a), "sqrt " + a);
 	};
 
 });

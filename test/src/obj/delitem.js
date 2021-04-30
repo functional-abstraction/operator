@@ -1,5 +1,7 @@
+import test from 'ava';
+import * as operator from '../../../src';
 
-test("delitem", function () {
+test( "delitem", t => {
 
 	var getter, obj;
 
@@ -11,10 +13,10 @@ test("delitem", function () {
 
 	operator.delitem(obj, "name");
 
-	deepEqual(obj, {size : { cm : 170 }, "size.cm" : 180}, "delitem name");
+	t.deepEqual(obj, {size : { cm : 170 }, "size.cm" : 180}, "delitem name");
 
 	operator.delitem(obj, "size.cm")
 
-	deepEqual(obj, {size : { cm : 170 }}, "delitem size.cm");
+	t.deepEqual(obj, {size : { cm : 170 }}, "delitem size.cm");
 
 });

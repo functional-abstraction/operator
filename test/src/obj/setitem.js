@@ -1,5 +1,7 @@
+import test from 'ava';
+import * as operator from '../../../src';
 
-test("setitem", function () {
+test( "setitem", t => {
 
 	var getter, obj;
 
@@ -11,7 +13,7 @@ test("setitem", function () {
 
 	operator.setitem(obj, "name", "jack");
 
-	deepEqual(obj, {
+	t.deepEqual(obj, {
 		name : "jack",
 		size : { cm : 170 },
 		"size.cm" : 180
@@ -19,7 +21,7 @@ test("setitem", function () {
 
 	operator.setitem(obj, "size.cm", 190)
 
-	deepEqual(obj, {
+	t.deepEqual(obj, {
 		name : "jack",
 		size : { cm : 170 },
 		"size.cm" : 190

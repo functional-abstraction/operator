@@ -1,5 +1,7 @@
+import test from 'ava';
+import * as operator from '../../../../src';
 
-test("abs", function () {
+test( "abs", t => {
 
 	var a, i, n;
 
@@ -7,7 +9,7 @@ test("abs", function () {
 
 	for (i = 0; i < n; ++i) {
 		a = Math.floor(Math.random() * Math.pow(2, 32)) - Math.pow(2, 31);
-		deepEqual(operator.abs(a), Math.abs(a), "Math.abs(" + a + ")");
+		t.deepEqual(operator.abs(a), Math.abs(a), "Math.abs(" + a + ")");
 	};
 
 });

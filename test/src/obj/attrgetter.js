@@ -1,5 +1,7 @@
+import test from 'ava';
+import * as operator from '../../../src';
 
-test("attrgetter", function () {
+test( "attrgetter", t => {
 
 	var getter, obj;
 
@@ -11,18 +13,18 @@ test("attrgetter", function () {
 
 	getter = operator.attrgetter();
 
-	deepEqual(getter(obj), undefined, "attrgetter");
+	t.deepEqual(getter(obj), undefined, "attrgetter");
 
 	getter = operator.attrgetter("name");
 
-	deepEqual(getter(obj), "john", "attrgetter name");
+	t.deepEqual(getter(obj), "john", "attrgetter name");
 
 	getter = operator.attrgetter("size.cm");
 
-	deepEqual(getter(obj), 170, "attrgetter size.cm");
+	t.deepEqual(getter(obj), 170, "attrgetter size.cm");
 
 	getter = operator.attrgetter("name", "size.cm");
 
-	deepEqual(getter(obj), ["john", 170], "attrgetter name size.cm");
+	t.deepEqual(getter(obj), ["john", 170], "attrgetter name size.cm");
 
 });

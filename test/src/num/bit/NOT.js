@@ -1,5 +1,7 @@
+import test from 'ava';
+import * as operator from '../../../../src';
 
-test("NOT", function () {
+test( "NOT", t => {
 
 	var a, i, n;
 
@@ -7,7 +9,7 @@ test("NOT", function () {
 
 	for (i = 0; i < n; ++i) {
 		a = Math.floor(Math.random() * Math.pow(2, 32));
-		deepEqual(operator.NOT(a), ~a, "~" + a);
+		t.deepEqual(operator.NOT(a), ~a, "~" + a);
 	};
 
 });

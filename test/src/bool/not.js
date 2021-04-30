@@ -1,7 +1,9 @@
+import test from 'ava';
+import * as operator from '../../../src';
 
-test("not", function () {
+test( "not", t => {
 
-	deepEqual(operator.not(true), false, "not true");
-	deepEqual(operator.not(false), true, "not false");
+	t.deepEqual(operator.not(true), false, "not true");
+	t.deepEqual(operator.not(false), true, "not false");
 
 });

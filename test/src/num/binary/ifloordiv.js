@@ -1,5 +1,7 @@
+import test from 'ava';
+import * as operator from '../../../../src';
 
-test("ifloordiv", function () {
+test( "ifloordiv", t => {
 
 	var a, b, i, n;
 
@@ -8,7 +10,7 @@ test("ifloordiv", function () {
 	for (i = 0; i < n; ++i) {
 		a = Math.random();
 		b = Math.random();
-		deepEqual(operator.ifloordiv(a, b), a = a / b | 0, "a = " + a + " / " + b + " | 0");
+		t.deepEqual(operator.ifloordiv(a, b), a = a / b | 0, "a = " + a + " / " + b + " | 0");
 	};
 
 });

@@ -1,5 +1,7 @@
+import test from 'ava';
+import * as operator from '../../../../src';
 
-test("iushift", function () {
+test( "iushift", t => {
 
 	var a, b, i, n;
 
@@ -8,7 +10,7 @@ test("iushift", function () {
 	for (i = 0; i < n; ++i) {
 		a = Math.floor(Math.random() * Math.pow(2, 32)) - Math.pow(2, 31);
 		b = Math.floor(Math.random() * 32);
-		deepEqual(operator.iushift(a, b), a = a >>>= b, "a = " + a + " >>>= " + b);
+		t.deepEqual(operator.iushift(a, b), a = a >>>= b, "a = " + a + " >>>= " + b);
 	};
 
 });

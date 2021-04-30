@@ -1,5 +1,7 @@
+import test from 'ava';
+import * as operator from '../../../../src';
 
-test("lshift", function () {
+test( "lshift", t => {
 
 	var a, b, i, n;
 
@@ -8,7 +10,7 @@ test("lshift", function () {
 	for (i = 0; i < n; ++i) {
 		a = Math.floor(Math.random() * Math.pow(2, 32));
 		b = Math.floor(Math.random() * 32);
-		deepEqual(operator.lshift(a, b), a << b, a + " << " + b);
+		t.deepEqual(operator.lshift(a, b), a << b, a + " << " + b);
 	};
 
 });

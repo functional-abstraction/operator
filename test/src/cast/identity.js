@@ -1,9 +1,11 @@
+import test from 'ava';
+import * as operator from '../../../src';
 
 var one = function (obj, txt) {
-	deepEqual( operator.identity(obj), obj, "identity " + txt );
+	t.deepEqual( operator.identity(obj), obj, "identity " + txt );
 };
 
-test("identity", function () {
+test( "identity", t => {
 
 	one(0, "0");
 	one(null, "null");

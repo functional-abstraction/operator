@@ -1,5 +1,7 @@
+import test from 'ava';
+import * as operator from '../../../../src';
 
-test("imul", function () {
+test( "imul", t => {
 
 	var a, b, i, n;
 
@@ -8,7 +10,7 @@ test("imul", function () {
 	for (i = 0; i < n; ++i) {
 		a = Math.random();
 		b = Math.random();
-		deepEqual(operator.imul(a, b), a *= b, a + " *= " + b);
+		t.deepEqual(operator.imul(a, b), a *= b, a + " *= " + b);
 	};
 
 });

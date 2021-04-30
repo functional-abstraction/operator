@@ -1,5 +1,7 @@
+import test from 'ava';
+import * as operator from '../../../src';
 
-test("attrresolve", function () {
+test( "attrresolve", t => {
 
 	var getter, obj;
 
@@ -9,8 +11,8 @@ test("attrresolve", function () {
 		"size.cm" : 180
 	};
 
-	deepEqual(operator.attrresolve(obj, "name"), "john", "attrresolve name");
+	t.deepEqual(operator.attrresolve(obj, "name"), "john", "attrresolve name");
 
-	deepEqual(operator.attrresolve(obj, "size.cm"), 170, "attrresolve size.cm");
+	t.deepEqual(operator.attrresolve(obj, "size.cm"), 170, "attrresolve size.cm");
 
 });

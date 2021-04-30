@@ -1,5 +1,7 @@
+import test from 'ava';
+import * as operator from '../../../src';
 
-test("getitem", function () {
+test( "getitem", t => {
 
 	var getter, obj;
 
@@ -9,8 +11,8 @@ test("getitem", function () {
 		"size.cm" : 180
 	};
 
-	deepEqual(operator.getitem(obj, "name"), "john", "getitem name");
+	t.deepEqual(operator.getitem(obj, "name"), "john", "getitem name");
 
-	deepEqual(operator.getitem(obj, "size.cm"), 180, "getitem size.cm");
+	t.deepEqual(operator.getitem(obj, "size.cm"), 180, "getitem size.cm");
 
 });

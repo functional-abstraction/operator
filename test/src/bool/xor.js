@@ -1,9 +1,11 @@
+import test from 'ava';
+import * as operator from '../../../src';
 
-test("xor", function () {
+test( "xor", t => {
 
-	deepEqual(operator.xor(true, true), false, "true xor true");
-	deepEqual(operator.xor(true, false), true, "true xor false");
-	deepEqual(operator.xor(false, true), true, "false xor true");
-	deepEqual(operator.xor(false, false), false, "false xor false");
+	t.deepEqual(operator.xor(true, true), false, "true xor true");
+	t.deepEqual(operator.xor(true, false), true, "true xor false");
+	t.deepEqual(operator.xor(false, true), true, "false xor true");
+	t.deepEqual(operator.xor(false, false), false, "false xor false");
 
 });
