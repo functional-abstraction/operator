@@ -21,6 +21,7 @@
   ],
   "sideEffects": false,
   "main": "dist/index.js",
+  "esmodule": "dist/index.modern.js",
   "files": [
     "dist"
   ],
