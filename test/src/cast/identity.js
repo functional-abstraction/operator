@@ -1,5 +1,5 @@
 import test from 'ava';
-import {identity} from '../../../src';
+import {identity} from '../../../src/index.js';
 
 const repr = (x) => {
 	if (x === undefined) return 'undefined';

@@ -1,5 +1,5 @@
 import test from 'ava';
-import * as operator from '../../../src';
+import * as operator from '../../../src/index.js';
 
 test( "attrgetter", t => {
 
