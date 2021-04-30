@@ -1,3 +1,4 @@
+import {noop} from '../fn/noop.js';
 
 export function itemgetter () {
 	var len, attr, g, args;
@@ -30,8 +31,5 @@ export function itemgetter () {
 		};
 	}
 
-
-
 	return g;
 }
-

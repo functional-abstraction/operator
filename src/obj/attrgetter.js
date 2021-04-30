@@ -1,3 +1,5 @@
+import {noop} from '../fn/noop.js';
+import {attrresolve} from './attrresolve.js';
 
 export function attrgetter () {
 	var len, attr, g, args;
@@ -32,4 +34,3 @@ export function attrgetter () {
 
 	return g;
 }
-

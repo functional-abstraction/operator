@@ -1,23 +1,27 @@
 import test from 'ava';
-import * as operator from '../../../src';
+import {identity} from '../../../src';
 
-var one = function (obj, txt) {
-	t.deepEqual( operator.identity(obj), obj, "identity " + txt );
+const repr = (x) => {
+	if (x === undefined) return 'undefined';
+	if (typeof x === 'number') return x.toString();
+	return JSON.stringify(x);
+}
+
+const macro = (t, x) => {
+	t.is( identity(x), x );
 };
 
-test( "identity", t => {
+macro.title = (title, x) => title ?? repr(x);
 
-	one(0, "0");
-	one(null, "null");
-	one(undefined, "undefined");
+test(macro, 0);
+test(macro, null);
+test(macro, undefined);
 
-	one(-Math.PI, "-Math.PI");
-	one(-1, "-1");
-	one(1, "1");
-	one(Math.PI, "Math.PI");
-	one([], "[]");
-	one({}, "{}");
-	one(Infinity, "Infinity");
-	one(-Infinity, "-Infinity");
-
-});
+test(macro, -Math.PI);
+test(macro, -1);
+test(macro, 1);
+test(macro, Math.PI);
+test(macro, []);
+test(macro, {});
+test(macro, Infinity);
+test(macro, -Infinity);
