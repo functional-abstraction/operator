@@ -152,7 +152,8 @@
     "release": "np --message ':hatching_chick: release: Bumping to v%s.'",
     "test": "ava",
     "travis": null,
-    "lint-config-and-fix": "fixpack || fixpack"
+    "lint-config-and-fix": "fixpack || fixpack",
+    "lint-config": "fixpack --dryRun"
   },
   "sideEffects": false
 }
