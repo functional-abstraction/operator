@@ -3,6 +3,7 @@
 ==
 
 Language operator functions for JavaScript.
+See [docs](https://make-github-pseudonymous-again.github.io/js-operator/index.html).
 
 [![License](https://img.shields.io/github/license/make-github-pseudonymous-again/js-operator.svg)](https://raw.githubusercontent.com/make-github-pseudonymous-again/js-operator/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@aureooms/js-operator.svg)](https://www.npmjs.org/package/@aureooms/js-operator)
