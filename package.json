@@ -1,16 +1,16 @@
 {
-  "name": "@aureooms/js-operator",
+  "name": "@functional-abstraction/operator",
   "description": "Language operator functions for JavaScript",
   "version": "1.0.2",
   "license": "AGPL-3.0",
-  "author": "aureooms",
-  "homepage": "https://make-github-pseudonymous-again.github.io/js-operator",
+  "author": "make-github-pseudonymous-again",
+  "homepage": "https://functional-abstraction.github.io/operator",
   "repository": {
-    "url": "https://github.com/make-github-pseudonymous-again/js-operator",
+    "url": "https://github.com/functional-abstraction/operator",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/make-github-pseudonymous-again/js-operator/issues"
+    "url": "https://github.com/functional-abstraction/operator/issues"
   },
   "keywords": [
     "bricks",

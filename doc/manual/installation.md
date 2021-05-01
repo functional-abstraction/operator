@@ -8,15 +8,15 @@ or [jspm](https://jspm.org/docs).
 
 ### yarn
 ```terminal
-yarn add @aureooms/js-operator
+yarn add @functional-abstraction/operator
 ```
 
 ### npm
 ```terminal
-npm install @aureooms/js-operator --save
+npm install @functional-abstraction/operator --save
 ```
 
 ### jspm
 ```terminal
-jspm install npm:@aureooms/js-operator
+jspm install npm:@functional-abstraction/operator
 ```

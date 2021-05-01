@@ -2,7 +2,7 @@
 
 Import the library where needed
 ```js
-const operator = require( '@aureooms/js-operator' ) ;
+const operator = require( '@functional-abstraction/operator' ) ;
 // or
-import * as operator from '@aureooms/js-operator' ;
+import * as operator from '@functional-abstraction/operator' ;
 ```
