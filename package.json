@@ -1,6 +1,6 @@
 {
   "name": "@aureooms/js-operator",
-  "description": "language operators code bricks for JavaScript",
+  "description": "Language operator functions for JavaScript",
   "version": "1.0.2",
   "license": "AGPL-3.0",
   "author": "aureooms",
