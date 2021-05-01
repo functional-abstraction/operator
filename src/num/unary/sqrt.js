@@ -1,1 +1,2 @@
-export const sqrt = Math.sqrt;
+const sqrt = Math.sqrt;
+export default sqrt;

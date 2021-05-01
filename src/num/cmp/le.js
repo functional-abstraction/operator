@@ -1,3 +1,2 @@
-export function le(a, b) {
-	return a <= b;
-}
+const le = (a, b) => a <= b;
+export default le;

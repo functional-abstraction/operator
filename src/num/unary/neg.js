@@ -1,3 +1,2 @@
-export function neg(obj) {
-	return -obj;
-}
+const neg = (x) => -x;
+export default neg;

@@ -1,6 +1,6 @@
-import {noop} from '../fn/noop.js';
+import noop from '../fn/noop.js';
 
-export function itemgetter(...args) {
+const itemgetter = (...args) => {
 	const len = args.length;
 
 	if (len === 0) return noop;
@@ -19,4 +19,6 @@ export function itemgetter(...args) {
 
 		return tuple;
 	};
-}
+};
+
+export default itemgetter;

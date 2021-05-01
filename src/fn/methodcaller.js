@@ -1,3 +1,2 @@
-export function methodcaller(name, ...args) {
-	return (obj) => obj[name](...args);
-}
+const methodcaller = (name, ...args) => (obj) => obj[name](...args);
+export default methodcaller;

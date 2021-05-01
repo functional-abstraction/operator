@@ -1,4 +1,4 @@
-export function contains(a, b) {
+const contains = (a, b) => {
 	const len = a.length;
 
 	for (let i = 0; i < len; ++i) {
@@ -8,4 +8,6 @@ export function contains(a, b) {
 	}
 
 	return false;
-}
+};
+
+export default contains;

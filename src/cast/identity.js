@@ -1,3 +1,2 @@
-export function identity(obj) {
-	return obj;
-}
+const identity = (x) => x;
+export default identity;

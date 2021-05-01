@@ -1,3 +1,2 @@
-export function xor(a, b) {
-	return (a || b) && !(a && b);
-}
+const xor = (a, b) => (a || b) && !(a && b);
+export default xor;

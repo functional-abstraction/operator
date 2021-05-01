@@ -1,4 +1,4 @@
-export function countOf(a, b) {
+const countOf = (a, b) => {
 	let n = 0;
 	const len = a.length;
 
@@ -9,4 +9,6 @@ export function countOf(a, b) {
 	}
 
 	return n;
-}
+};
+
+export default countOf;

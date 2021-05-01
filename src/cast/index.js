@@ -1,3 +1,2 @@
-export * from './_index.js';
-export * from './identity.js';
-export * from './truth.js';
+const index = (x) => ~~x;
+export default index;

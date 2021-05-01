@@ -1,3 +1,2 @@
-export function floordiv(a, b) {
-	return (a / b) | 0;
-}
+const floordiv = (a, b) => (a / b) | 0;
+export default floordiv;

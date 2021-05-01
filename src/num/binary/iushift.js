@@ -1,4 +1,6 @@
-export function iushift(a, b) {
+const iushift = (a, b) => {
 	// eslint-disable-next-line no-return-assign
 	return (a >>>= b);
-}
+};
+
+export default iushift;

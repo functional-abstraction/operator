@@ -1,3 +1,2 @@
-export function getitem(a, b) {
-	return a[b];
-}
+const getitem = (a, b) => a[b];
+export default getitem;

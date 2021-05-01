@@ -1,4 +1,4 @@
-export function iconcat(a, b) {
+const iconcat = (a, b) => {
 	const len = b.length;
 
 	for (let i = 0; i < len; ++i) {
@@ -6,4 +6,6 @@ export function iconcat(a, b) {
 	}
 
 	return a;
-}
+};
+
+export default iconcat;

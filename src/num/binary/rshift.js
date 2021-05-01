@@ -1,3 +1,2 @@
-export function rshift(a, b) {
-	return a >> b;
-}
+const rshift = (a, b) => a >> b;
+export default rshift;

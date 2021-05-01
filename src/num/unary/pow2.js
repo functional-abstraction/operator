@@ -1,3 +1,2 @@
-export function pow2(obj) {
-	return obj * obj;
-}
+const pow2 = (obj) => obj * obj;
+export default pow2;

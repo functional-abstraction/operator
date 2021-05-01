@@ -1,7 +1,7 @@
-import {noop} from '../fn/noop.js';
-import {attrresolve} from './attrresolve.js';
+import noop from '../fn/noop.js';
+import attrresolve from './attrresolve.js';
 
-export function attrgetter(...args) {
+const attrgetter = (...args) => {
 	const len = args.length;
 
 	if (len === 0) return noop;
@@ -20,4 +20,6 @@ export function attrgetter(...args) {
 
 		return tuple;
 	};
-}
+};
+
+export default attrgetter;

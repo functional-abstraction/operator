@@ -1,3 +1,2 @@
-export function lshift(a, b) {
-	return a << b;
-}
+const lshift = (a, b) => a << b;
+export default lshift;

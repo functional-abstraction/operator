@@ -1,4 +1,4 @@
-export function indexOf(a, b) {
+const indexOf = (a, b) => {
 	const len = a.length;
 
 	for (let i = 0; i < len; ++i) {
@@ -8,4 +8,6 @@ export function indexOf(a, b) {
 	}
 
 	return -1;
-}
+};
+
+export default indexOf;

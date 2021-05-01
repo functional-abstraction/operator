@@ -1,3 +1,2 @@
-export function gt(a, b) {
-	return a > b;
-}
+const gt = (a, b) => a > b;
+export default gt;

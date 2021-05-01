@@ -1,3 +1,2 @@
-export function lt(a, b) {
-	return a < b;
-}
+const lt = (a, b) => a < b;
+export default lt;

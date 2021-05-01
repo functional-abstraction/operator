@@ -1,3 +1,2 @@
-export function or(a, b) {
-	return a || b;
-}
+const or = (a, b) => a || b;
+export default or;

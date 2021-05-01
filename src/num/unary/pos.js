@@ -1,3 +1,2 @@
-export function pos(obj) {
-	return Number(obj);
-}
+const pos = (obj) => Number(obj);
+export default pos;

@@ -1,3 +1,5 @@
-export function delitem(a, b) {
+const delitem = (a, b) => {
 	delete a[b];
-}
+};
+
+export default delitem;

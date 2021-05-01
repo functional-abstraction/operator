@@ -1,4 +1,6 @@
-export function imod(a, b) {
+const imod = (a, b) => {
 	// eslint-disable-next-line no-return-assign
 	return (a %= b);
-}
+};
+
+export default imod;

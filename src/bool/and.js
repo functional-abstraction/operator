@@ -1,3 +1,2 @@
-export function and(a, b) {
-	return a && b;
-}
+const and = (a, b) => a && b;
+export default and;

@@ -1,3 +1,2 @@
-export function AND(a, b) {
-	return a & b;
-}
+const AND = (a, b) => a & b;
+export default AND;

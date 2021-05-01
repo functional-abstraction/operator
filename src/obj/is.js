@@ -1,1 +1,2 @@
-export const is = (a, b) => a === b;
+const is = (a, b) => a === b;
+export default is;

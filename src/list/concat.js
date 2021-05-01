@@ -1,3 +1,2 @@
-export function concat(a, b) {
-	return a.concat(b);
-}
+const concat = (a, b) => a.concat(b);
+export default concat;

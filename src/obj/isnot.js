@@ -1,1 +1,2 @@
-export const isnot = (a, b) => a !== b;
+const isnot = (a, b) => a !== b;
+export default isnot;

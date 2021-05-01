@@ -1,1 +1,2 @@
-export const abs = Math.abs;
+const abs = Math.abs;
+export default abs;

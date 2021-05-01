@@ -1,3 +1,2 @@
-export function ge(a, b) {
-	return a >= b;
-}
+const ge = (a, b) => a >= b;
+export default ge;

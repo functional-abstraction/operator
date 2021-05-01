@@ -1,3 +1,2 @@
-export function truth(obj) {
-	return Boolean(obj);
-}
+const truth = (x) => Boolean(x);
+export default truth;

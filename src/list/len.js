@@ -10,4 +10,5 @@
  * @param {any} x Input.
  * @return {Number}
  */
-export const len = (x) => x.length;
+const len = (x) => x.length;
+export default len;

@@ -1,3 +1,2 @@
-export function ushift(a, b) {
-	return a >>> b;
-}
+const ushift = (a, b) => a >>> b;
+export default ushift;

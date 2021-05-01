@@ -1,4 +1,4 @@
-export function attrresolve(obj, attr) {
+const attrresolve = (obj, attr) => {
 	const parts = attr.split('.');
 
 	const len = parts.length;
@@ -9,4 +9,6 @@ export function attrresolve(obj, attr) {
 	}
 
 	return obj;
-}
+};
+
+export default attrresolve;

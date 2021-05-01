@@ -1,4 +1,6 @@
-export function itruediv(a, b) {
+const itruediv = (a, b) => {
 	// eslint-disable-next-line no-return-assign
 	return (a /= b);
-}
+};
+
+export default itruediv;

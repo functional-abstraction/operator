@@ -1,3 +1,2 @@
-export function XOR(a, b) {
-	return a ^ b;
-}
+const XOR = (a, b) => a ^ b;
+export default XOR;

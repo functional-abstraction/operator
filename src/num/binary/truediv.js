@@ -1,3 +1,2 @@
-export function truediv(a, b) {
-	return a / b;
-}
+const truediv = (a, b) => a / b;
+export default truediv;

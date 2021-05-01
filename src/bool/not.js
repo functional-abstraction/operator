@@ -1,3 +1,2 @@
-export function not(obj) {
-	return !obj;
-}
+const not = (x) => !x;
+export default not;
