@@ -5,6 +5,11 @@
 Language operator functions for JavaScript.
 See [docs](https://functional-abstraction.github.io/operator/index.html).
 
+```js
+import {len} from '@functional-abstraction/operator';
+len('abc'); // 3
+```
+
 [![License](https://img.shields.io/github/license/functional-abstraction/operator.svg)](https://raw.githubusercontent.com/functional-abstraction/operator/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@functional-abstraction/operator.svg)](https://www.npmjs.org/package/@functional-abstraction/operator)
 [![Tests](https://img.shields.io/github/workflow/status/functional-abstraction/operator/ci:test?event=push&label=tests)](https://github.com/functional-abstraction/operator/actions/workflows/ci:test.yml?query=branch:main)
