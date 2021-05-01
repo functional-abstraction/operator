@@ -7,7 +7,7 @@ node_js:
 install:
   - npm -d install
 script:
-  - npm test
+  - npm run cover
 after_success:
   - ./node_modules/.bin/coveralls   < coverage/lcov.info || true
   - ./node_modules/.bin/codeclimate < coverage/lcov.info || true
