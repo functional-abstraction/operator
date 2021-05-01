@@ -1,7 +1,7 @@
 {
   "name": "@functional-abstraction/operator",
   "description": "Language operator functions for JavaScript",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "license": "AGPL-3.0",
   "author": "make-github-pseudonymous-again",
   "homepage": "https://functional-abstraction.github.io/operator",
