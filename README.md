@@ -1,3 +1,4 @@
+:heavy_multiplication_x: :heavy_plus_sign: :heavy_minus_sign: :heavy_division_sign:
 [@aureooms/js-operator](https://make-github-pseudonymous-again.github.io/js-operator)
 ==
 
@@ -19,6 +20,6 @@ Language operator functions for JavaScript.
 [![Package size](https://img.shields.io/bundlephobia/minzip/@aureooms/js-operator)](https://bundlephobia.com/result?p=@aureooms/js-operator)
 
 
-## References
+## :scroll: References
 
   - https://docs.python.org/3/library/operator.html
