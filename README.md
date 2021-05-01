@@ -6,7 +6,7 @@ Language operator functions for JavaScript.
 
 [![License](https://img.shields.io/github/license/make-github-pseudonymous-again/js-operator.svg)](https://raw.githubusercontent.com/make-github-pseudonymous-again/js-operator/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@aureooms/js-operator.svg)](https://www.npmjs.org/package/@aureooms/js-operator)
-[![Build](https://img.shields.io/travis/make-github-pseudonymous-again/js-operator/main.svg)](https://travis-ci.com/make-github-pseudonymous-again/js-operator/branches)
+[![Tests](https://img.shields.io/github/workflow/status/make-github-pseudonymous-again/js-operator/ci:test?event=push&label=tests)](https://github.com/make-github-pseudonymous-again/js-operator/actions/workflows/ci:test.yml?query=branch:main)
 [![Dependencies](https://img.shields.io/david/make-github-pseudonymous-again/js-operator.svg)](https://david-dm.org/make-github-pseudonymous-again/js-operator)
 [![Dev dependencies](https://img.shields.io/david/dev/make-github-pseudonymous-again/js-operator.svg)](https://david-dm.org/make-github-pseudonymous-again/js-operator?type=dev)
 [![GitHub issues](https://img.shields.io/github/issues/make-github-pseudonymous-again/js-operator.svg)](https://github.com/make-github-pseudonymous-again/js-operator/issues)
