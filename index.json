@@ -1,0 +1,3329 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "src/bool/and.js",
+    "content": "const and = (a, b) => a && b;\nexport default and;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/bool/and.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "function",
+    "name": "and",
+    "memberof": "src/bool/and.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/bool/and.js~and",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/bool/and.js",
+    "importStyle": "and",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 50,
+    "kind": "file",
+    "name": "src/bool/not.js",
+    "content": "const not = (x) => !x;\nexport default not;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/bool/not.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 51,
+    "kind": "function",
+    "name": "not",
+    "memberof": "src/bool/not.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/bool/not.js~not",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/bool/not.js",
+    "importStyle": "not",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "x",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 52,
+    "kind": "file",
+    "name": "src/bool/or.js",
+    "content": "const or = (a, b) => a || b;\nexport default or;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/bool/or.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 53,
+    "kind": "function",
+    "name": "or",
+    "memberof": "src/bool/or.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/bool/or.js~or",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/bool/or.js",
+    "importStyle": "or",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 54,
+    "kind": "file",
+    "name": "src/bool/xor.js",
+    "content": "const xor = (a, b) => (a || b) && !(a && b);\nexport default xor;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/bool/xor.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 55,
+    "kind": "function",
+    "name": "xor",
+    "memberof": "src/bool/xor.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/bool/xor.js~xor",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/bool/xor.js",
+    "importStyle": "xor",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 56,
+    "kind": "file",
+    "name": "src/cast/identity.js",
+    "content": "const identity = (x) => x;\nexport default identity;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/cast/identity.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 57,
+    "kind": "function",
+    "name": "identity",
+    "memberof": "src/cast/identity.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/cast/identity.js~identity",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/cast/identity.js",
+    "importStyle": "identity",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "x",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 58,
+    "kind": "file",
+    "name": "src/cast/index.js",
+    "content": "const index = (x) => ~~x;\nexport default index;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/cast/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 59,
+    "kind": "function",
+    "name": "index",
+    "memberof": "src/cast/index.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/cast/index.js~index",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/cast/index.js",
+    "importStyle": "index",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "x",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 60,
+    "kind": "file",
+    "name": "src/cast/truth.js",
+    "content": "const truth = (x) => Boolean(x);\nexport default truth;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/cast/truth.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 61,
+    "kind": "function",
+    "name": "truth",
+    "memberof": "src/cast/truth.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/cast/truth.js~truth",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/cast/truth.js",
+    "importStyle": "truth",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "x",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 62,
+    "kind": "file",
+    "name": "src/fn/methodcaller.js",
+    "content": "const methodcaller = (name, ...args) => (obj) => obj[name](...args);\nexport default methodcaller;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/fn/methodcaller.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 63,
+    "kind": "function",
+    "name": "methodcaller",
+    "memberof": "src/fn/methodcaller.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/fn/methodcaller.js~methodcaller",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/fn/methodcaller.js",
+    "importStyle": "methodcaller",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "name",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "args",
+        "types": [
+          "...*"
+        ],
+        "spread": true
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 64,
+    "kind": "file",
+    "name": "src/fn/noop.js",
+    "content": "const noop = () => {};\nexport default noop;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/fn/noop.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 65,
+    "kind": "function",
+    "name": "noop",
+    "memberof": "src/fn/noop.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/fn/noop.js~noop",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/fn/noop.js",
+    "importStyle": "noop",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 66,
+    "kind": "file",
+    "name": "src/index.js",
+    "content": "export {default as and} from './bool/and.js';\nexport {default as not} from './bool/not.js';\nexport {default as or} from './bool/or.js';\nexport {default as xor} from './bool/xor.js';\nexport {default as identity} from './cast/identity.js';\nexport {default as index} from './cast/index.js';\nexport {default as cast} from './cast/index.js';\nexport {default as truth} from './cast/truth.js';\nexport {default as methodcaller} from './fn/methodcaller.js';\nexport {default as noop} from './fn/noop.js';\nexport {default as concat} from './list/concat.js';\nexport {default as contains} from './list/contains.js';\nexport {default as countOf} from './list/countOf.js';\nexport {default as iconcat} from './list/iconcat.js';\nexport {default as indexOf} from './list/indexOf.js';\nexport {default as len} from './list/len.js';\nexport {default as add} from './num/binary/add.js';\nexport {default as floordiv} from './num/binary/floordiv.js';\nexport {default as iadd} from './num/binary/iadd.js';\nexport {default as ifloordiv} from './num/binary/ifloordiv.js';\nexport {default as ilshift} from './num/binary/ilshift.js';\nexport {default as imod} from './num/binary/imod.js';\nexport {default as imul} from './num/binary/imul.js';\nexport {default as ipow} from './num/binary/ipow.js';\nexport {default as irshift} from './num/binary/irshift.js';\nexport {default as isub} from './num/binary/isub.js';\nexport {default as itruediv} from './num/binary/itruediv.js';\nexport {default as iushift} from './num/binary/iushift.js';\nexport {default as lshift} from './num/binary/lshift.js';\nexport {default as mod} from './num/binary/mod.js';\nexport {default as mul} from './num/binary/mul.js';\nexport {default as pow} from './num/binary/pow.js';\nexport {default as rshift} from './num/binary/rshift.js';\nexport {default as sub} from './num/binary/sub.js';\nexport {default as truediv} from './num/binary/truediv.js';\nexport {default as ushift} from './num/binary/ushift.js';\nexport {default as AND} from './num/bit/AND.js';\nexport {default as IAND} from './num/bit/IAND.js';\nexport {default as IOR} from './num/bit/IOR.js';\nexport {default as IXOR} from './num/bit/IXOR.js';\nexport {default as NOT} from './num/bit/NOT.js';\nexport {default as OR} from './num/bit/OR.js';\nexport {default as XOR} from './num/bit/XOR.js';\nexport {default as eq} from './num/cmp/eq.js';\nexport {default as ge} from './num/cmp/ge.js';\nexport {default as gt} from './num/cmp/gt.js';\nexport {default as le} from './num/cmp/le.js';\nexport {default as lt} from './num/cmp/lt.js';\nexport {default as ne} from './num/cmp/ne.js';\nexport {default as abs} from './num/unary/abs.js';\nexport {default as neg} from './num/unary/neg.js';\nexport {default as pos} from './num/unary/pos.js';\nexport {default as pow2} from './num/unary/pow2.js';\nexport {default as pow3} from './num/unary/pow3.js';\nexport {default as pow4} from './num/unary/pow4.js';\nexport {default as sqrt} from './num/unary/sqrt.js';\nexport {default as attrgetter} from './obj/attrgetter.js';\nexport {default as attrresolve} from './obj/attrresolve.js';\nexport {default as delitem} from './obj/delitem.js';\nexport {default as getitem} from './obj/getitem.js';\nexport {default as is} from './obj/is.js';\nexport {default as isnot} from './obj/isnot.js';\nexport {default as itemgetter} from './obj/itemgetter.js';\nexport {default as setitem} from './obj/setitem.js';\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 67,
+    "kind": "file",
+    "name": "src/list/concat.js",
+    "content": "const concat = (a, b) => a.concat(b);\nexport default concat;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/list/concat.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 68,
+    "kind": "function",
+    "name": "concat",
+    "memberof": "src/list/concat.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/list/concat.js~concat",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/list/concat.js",
+    "importStyle": "concat",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 69,
+    "kind": "file",
+    "name": "src/list/contains.js",
+    "content": "const contains = (a, b) => {\n\tconst len = a.length;\n\n\tfor (let i = 0; i < len; ++i) {\n\t\tif (b === a[i]) {\n\t\t\treturn true;\n\t\t}\n\t}\n\n\treturn false;\n};\n\nexport default contains;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/list/contains.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 70,
+    "kind": "function",
+    "name": "contains",
+    "memberof": "src/list/contains.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/list/contains.js~contains",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/list/contains.js",
+    "importStyle": "contains",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "boolean"
+      ]
+    }
+  },
+  {
+    "__docId__": 71,
+    "kind": "file",
+    "name": "src/list/countOf.js",
+    "content": "const countOf = (a, b) => {\n\tlet n = 0;\n\tconst len = a.length;\n\n\tfor (let i = 0; i < len; ++i) {\n\t\tif (b === a[i]) {\n\t\t\t++n;\n\t\t}\n\t}\n\n\treturn n;\n};\n\nexport default countOf;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/list/countOf.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 72,
+    "kind": "function",
+    "name": "countOf",
+    "memberof": "src/list/countOf.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/list/countOf.js~countOf",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/list/countOf.js",
+    "importStyle": "countOf",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 73,
+    "kind": "file",
+    "name": "src/list/iconcat.js",
+    "content": "const iconcat = (a, b) => {\n\tconst len = b.length;\n\n\tfor (let i = 0; i < len; ++i) {\n\t\ta.push(b[i]);\n\t}\n\n\treturn a;\n};\n\nexport default iconcat;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/list/iconcat.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 74,
+    "kind": "function",
+    "name": "iconcat",
+    "memberof": "src/list/iconcat.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/list/iconcat.js~iconcat",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/list/iconcat.js",
+    "importStyle": "iconcat",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 75,
+    "kind": "file",
+    "name": "src/list/indexOf.js",
+    "content": "const indexOf = (a, b) => {\n\tconst len = a.length;\n\n\tfor (let i = 0; i < len; ++i) {\n\t\tif (b === a[i]) {\n\t\t\treturn i;\n\t\t}\n\t}\n\n\treturn -1;\n};\n\nexport default indexOf;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/list/indexOf.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 76,
+    "kind": "function",
+    "name": "indexOf",
+    "memberof": "src/list/indexOf.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/list/indexOf.js~indexOf",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/list/indexOf.js",
+    "importStyle": "indexOf",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 77,
+    "kind": "file",
+    "name": "src/list/len.js",
+    "content": "/**\n * Returns the length of the input.\n *\n * @example\n * // returns 7\n * import {list} from '@iterable-iterator/list';\n * import {range} from '@iterable-iterator/range';\n * len( list( range( 7 ) ) ) ;\n *\n * @param {any} x Input.\n * @return {Number}\n */\nconst len = (x) => x.length;\nexport default len;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/list/len.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 78,
+    "kind": "function",
+    "name": "len",
+    "memberof": "src/list/len.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/list/len.js~len",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/list/len.js",
+    "importStyle": "len",
+    "description": "Returns the length of the input.",
+    "examples": [
+      "// returns 7\nimport {list} from '@iterable-iterator/list';\nimport {range} from '@iterable-iterator/range';\nlen( list( range( 7 ) ) ) ;"
+    ],
+    "lineNumber": 13,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "any"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "x",
+        "description": "Input."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Number"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 79,
+    "kind": "file",
+    "name": "src/num/binary/add.js",
+    "content": "const add = (a, b) => a + b;\nexport default add;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/num/binary/add.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 80,
+    "kind": "function",
+    "name": "add",
+    "memberof": "src/num/binary/add.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/num/binary/add.js~add",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/num/binary/add.js",
+    "importStyle": "add",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 81,
+    "kind": "file",
+    "name": "src/num/binary/floordiv.js",
+    "content": "const floordiv = (a, b) => (a / b) | 0;\nexport default floordiv;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/num/binary/floordiv.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 82,
+    "kind": "function",
+    "name": "floordiv",
+    "memberof": "src/num/binary/floordiv.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/num/binary/floordiv.js~floordiv",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/num/binary/floordiv.js",
+    "importStyle": "floordiv",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 83,
+    "kind": "file",
+    "name": "src/num/binary/iadd.js",
+    "content": "const iadd = (a, b) => {\n\t// eslint-disable-next-line no-return-assign\n\treturn (a += b);\n};\n\nexport default iadd;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/num/binary/iadd.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 84,
+    "kind": "function",
+    "name": "iadd",
+    "memberof": "src/num/binary/iadd.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/num/binary/iadd.js~iadd",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/num/binary/iadd.js",
+    "importStyle": "iadd",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 85,
+    "kind": "file",
+    "name": "src/num/binary/ifloordiv.js",
+    "content": "const ifloordiv = (a, b) => {\n\t// eslint-disable-next-line no-return-assign\n\treturn (a = (a / b) | 0);\n};\n\nexport default ifloordiv;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/num/binary/ifloordiv.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 86,
+    "kind": "function",
+    "name": "ifloordiv",
+    "memberof": "src/num/binary/ifloordiv.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/num/binary/ifloordiv.js~ifloordiv",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/num/binary/ifloordiv.js",
+    "importStyle": "ifloordiv",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 87,
+    "kind": "file",
+    "name": "src/num/binary/ilshift.js",
+    "content": "const ilshift = (a, b) => {\n\t// eslint-disable-next-line no-return-assign\n\treturn (a <<= b);\n};\n\nexport default ilshift;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/num/binary/ilshift.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 88,
+    "kind": "function",
+    "name": "ilshift",
+    "memberof": "src/num/binary/ilshift.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/num/binary/ilshift.js~ilshift",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/num/binary/ilshift.js",
+    "importStyle": "ilshift",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 89,
+    "kind": "file",
+    "name": "src/num/binary/imod.js",
+    "content": "const imod = (a, b) => {\n\t// eslint-disable-next-line no-return-assign\n\treturn (a %= b);\n};\n\nexport default imod;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/num/binary/imod.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 90,
+    "kind": "function",
+    "name": "imod",
+    "memberof": "src/num/binary/imod.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/num/binary/imod.js~imod",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/num/binary/imod.js",
+    "importStyle": "imod",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 91,
+    "kind": "file",
+    "name": "src/num/binary/imul.js",
+    "content": "const imul = (a, b) => {\n\t// eslint-disable-next-line no-return-assign\n\treturn (a *= b);\n};\n\nexport default imul;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/num/binary/imul.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 92,
+    "kind": "function",
+    "name": "imul",
+    "memberof": "src/num/binary/imul.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/num/binary/imul.js~imul",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/num/binary/imul.js",
+    "importStyle": "imul",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 93,
+    "kind": "file",
+    "name": "src/num/binary/ipow.js",
+    "content": "const ipow = (a, b) => {\n\t// eslint-disable-next-line no-return-assign\n\treturn (a **= b);\n};\n\nexport default ipow;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/num/binary/ipow.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 94,
+    "kind": "function",
+    "name": "ipow",
+    "memberof": "src/num/binary/ipow.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/num/binary/ipow.js~ipow",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/num/binary/ipow.js",
+    "importStyle": "ipow",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 95,
+    "kind": "file",
+    "name": "src/num/binary/irshift.js",
+    "content": "const irshift = (a, b) => {\n\t// eslint-disable-next-line no-return-assign\n\treturn (a >>= b);\n};\n\nexport default irshift;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/num/binary/irshift.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 96,
+    "kind": "function",
+    "name": "irshift",
+    "memberof": "src/num/binary/irshift.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/num/binary/irshift.js~irshift",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/num/binary/irshift.js",
+    "importStyle": "irshift",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 97,
+    "kind": "file",
+    "name": "src/num/binary/isub.js",
+    "content": "const isub = (a, b) => {\n\t// eslint-disable-next-line no-return-assign\n\treturn (a -= b);\n};\n\nexport default isub;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/num/binary/isub.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 98,
+    "kind": "function",
+    "name": "isub",
+    "memberof": "src/num/binary/isub.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/num/binary/isub.js~isub",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/num/binary/isub.js",
+    "importStyle": "isub",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 99,
+    "kind": "file",
+    "name": "src/num/binary/itruediv.js",
+    "content": "const itruediv = (a, b) => {\n\t// eslint-disable-next-line no-return-assign\n\treturn (a /= b);\n};\n\nexport default itruediv;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/num/binary/itruediv.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 100,
+    "kind": "function",
+    "name": "itruediv",
+    "memberof": "src/num/binary/itruediv.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/num/binary/itruediv.js~itruediv",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/num/binary/itruediv.js",
+    "importStyle": "itruediv",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 101,
+    "kind": "file",
+    "name": "src/num/binary/iushift.js",
+    "content": "const iushift = (a, b) => {\n\t// eslint-disable-next-line no-return-assign\n\treturn (a >>>= b);\n};\n\nexport default iushift;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/num/binary/iushift.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 102,
+    "kind": "function",
+    "name": "iushift",
+    "memberof": "src/num/binary/iushift.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/num/binary/iushift.js~iushift",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/num/binary/iushift.js",
+    "importStyle": "iushift",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 103,
+    "kind": "file",
+    "name": "src/num/binary/lshift.js",
+    "content": "const lshift = (a, b) => a << b;\nexport default lshift;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/num/binary/lshift.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 104,
+    "kind": "function",
+    "name": "lshift",
+    "memberof": "src/num/binary/lshift.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/num/binary/lshift.js~lshift",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/num/binary/lshift.js",
+    "importStyle": "lshift",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 105,
+    "kind": "file",
+    "name": "src/num/binary/mod.js",
+    "content": "const mod = (a, b) => a % b;\nexport default mod;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/num/binary/mod.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 106,
+    "kind": "function",
+    "name": "mod",
+    "memberof": "src/num/binary/mod.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/num/binary/mod.js~mod",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/num/binary/mod.js",
+    "importStyle": "mod",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 107,
+    "kind": "file",
+    "name": "src/num/binary/mul.js",
+    "content": "const mul = (a, b) => a * b;\nexport default mul;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/num/binary/mul.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 108,
+    "kind": "function",
+    "name": "mul",
+    "memberof": "src/num/binary/mul.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/num/binary/mul.js~mul",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/num/binary/mul.js",
+    "importStyle": "mul",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 109,
+    "kind": "file",
+    "name": "src/num/binary/pow.js",
+    "content": "const pow = Math.pow;\nexport default pow;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/num/binary/pow.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 110,
+    "kind": "variable",
+    "name": "pow",
+    "memberof": "src/num/binary/pow.js",
+    "static": true,
+    "longname": "src/num/binary/pow.js~pow",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/num/binary/pow.js",
+    "importStyle": "pow",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 111,
+    "kind": "file",
+    "name": "src/num/binary/rshift.js",
+    "content": "const rshift = (a, b) => a >> b;\nexport default rshift;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/num/binary/rshift.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 112,
+    "kind": "function",
+    "name": "rshift",
+    "memberof": "src/num/binary/rshift.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/num/binary/rshift.js~rshift",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/num/binary/rshift.js",
+    "importStyle": "rshift",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 113,
+    "kind": "file",
+    "name": "src/num/binary/sub.js",
+    "content": "const sub = (a, b) => a - b;\nexport default sub;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/num/binary/sub.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 114,
+    "kind": "function",
+    "name": "sub",
+    "memberof": "src/num/binary/sub.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/num/binary/sub.js~sub",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/num/binary/sub.js",
+    "importStyle": "sub",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 115,
+    "kind": "file",
+    "name": "src/num/binary/truediv.js",
+    "content": "const truediv = (a, b) => a / b;\nexport default truediv;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/num/binary/truediv.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 116,
+    "kind": "function",
+    "name": "truediv",
+    "memberof": "src/num/binary/truediv.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/num/binary/truediv.js~truediv",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/num/binary/truediv.js",
+    "importStyle": "truediv",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 117,
+    "kind": "file",
+    "name": "src/num/binary/ushift.js",
+    "content": "const ushift = (a, b) => a >>> b;\nexport default ushift;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/num/binary/ushift.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 118,
+    "kind": "function",
+    "name": "ushift",
+    "memberof": "src/num/binary/ushift.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/num/binary/ushift.js~ushift",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/num/binary/ushift.js",
+    "importStyle": "ushift",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 119,
+    "kind": "file",
+    "name": "src/num/bit/AND.js",
+    "content": "const AND = (a, b) => a & b;\nexport default AND;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/num/bit/AND.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 120,
+    "kind": "function",
+    "name": "AND",
+    "memberof": "src/num/bit/AND.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/num/bit/AND.js~AND",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/num/bit/AND.js",
+    "importStyle": "AND",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 121,
+    "kind": "file",
+    "name": "src/num/bit/IAND.js",
+    "content": "const IAND = (a, b) => {\n\t// eslint-disable-next-line no-return-assign\n\treturn (a &= b);\n};\n\nexport default IAND;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/num/bit/IAND.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 122,
+    "kind": "function",
+    "name": "IAND",
+    "memberof": "src/num/bit/IAND.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/num/bit/IAND.js~IAND",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/num/bit/IAND.js",
+    "importStyle": "IAND",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 123,
+    "kind": "file",
+    "name": "src/num/bit/IOR.js",
+    "content": "const IOR = (a, b) => {\n\t// eslint-disable-next-line no-return-assign\n\treturn (a |= b);\n};\n\nexport default IOR;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/num/bit/IOR.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 124,
+    "kind": "function",
+    "name": "IOR",
+    "memberof": "src/num/bit/IOR.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/num/bit/IOR.js~IOR",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/num/bit/IOR.js",
+    "importStyle": "IOR",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 125,
+    "kind": "file",
+    "name": "src/num/bit/IXOR.js",
+    "content": "const IXOR = (a, b) => {\n\t// eslint-disable-next-line no-return-assign\n\treturn (a ^= b);\n};\n\nexport default IXOR;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/num/bit/IXOR.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 126,
+    "kind": "function",
+    "name": "IXOR",
+    "memberof": "src/num/bit/IXOR.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/num/bit/IXOR.js~IXOR",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/num/bit/IXOR.js",
+    "importStyle": "IXOR",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 127,
+    "kind": "file",
+    "name": "src/num/bit/NOT.js",
+    "content": "const NOT = (x) => ~x;\nexport default NOT;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/num/bit/NOT.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 128,
+    "kind": "function",
+    "name": "NOT",
+    "memberof": "src/num/bit/NOT.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/num/bit/NOT.js~NOT",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/num/bit/NOT.js",
+    "importStyle": "NOT",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "x",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 129,
+    "kind": "file",
+    "name": "src/num/bit/OR.js",
+    "content": "const OR = (a, b) => a | b;\nexport default OR;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/num/bit/OR.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 130,
+    "kind": "function",
+    "name": "OR",
+    "memberof": "src/num/bit/OR.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/num/bit/OR.js~OR",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/num/bit/OR.js",
+    "importStyle": "OR",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 131,
+    "kind": "file",
+    "name": "src/num/bit/XOR.js",
+    "content": "const XOR = (a, b) => a ^ b;\nexport default XOR;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/num/bit/XOR.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 132,
+    "kind": "function",
+    "name": "XOR",
+    "memberof": "src/num/bit/XOR.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/num/bit/XOR.js~XOR",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/num/bit/XOR.js",
+    "importStyle": "XOR",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 133,
+    "kind": "file",
+    "name": "src/num/cmp/eq.js",
+    "content": "const eq = (a, b) => {\n\t// eslint-disable-next-line eqeqeq\n\treturn a == b;\n};\n\nexport default eq;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/num/cmp/eq.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 134,
+    "kind": "function",
+    "name": "eq",
+    "memberof": "src/num/cmp/eq.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/num/cmp/eq.js~eq",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/num/cmp/eq.js",
+    "importStyle": "eq",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 135,
+    "kind": "file",
+    "name": "src/num/cmp/ge.js",
+    "content": "const ge = (a, b) => a >= b;\nexport default ge;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/num/cmp/ge.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 136,
+    "kind": "function",
+    "name": "ge",
+    "memberof": "src/num/cmp/ge.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/num/cmp/ge.js~ge",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/num/cmp/ge.js",
+    "importStyle": "ge",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 137,
+    "kind": "file",
+    "name": "src/num/cmp/gt.js",
+    "content": "const gt = (a, b) => a > b;\nexport default gt;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/num/cmp/gt.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 138,
+    "kind": "function",
+    "name": "gt",
+    "memberof": "src/num/cmp/gt.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/num/cmp/gt.js~gt",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/num/cmp/gt.js",
+    "importStyle": "gt",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 139,
+    "kind": "file",
+    "name": "src/num/cmp/le.js",
+    "content": "const le = (a, b) => a <= b;\nexport default le;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/num/cmp/le.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 140,
+    "kind": "function",
+    "name": "le",
+    "memberof": "src/num/cmp/le.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/num/cmp/le.js~le",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/num/cmp/le.js",
+    "importStyle": "le",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 141,
+    "kind": "file",
+    "name": "src/num/cmp/lt.js",
+    "content": "const lt = (a, b) => a < b;\nexport default lt;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/num/cmp/lt.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 142,
+    "kind": "function",
+    "name": "lt",
+    "memberof": "src/num/cmp/lt.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/num/cmp/lt.js~lt",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/num/cmp/lt.js",
+    "importStyle": "lt",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 143,
+    "kind": "file",
+    "name": "src/num/cmp/ne.js",
+    "content": "const ne = (a, b) => {\n\t// eslint-disable-next-line eqeqeq\n\treturn a != b;\n};\n\nexport default ne;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/num/cmp/ne.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 144,
+    "kind": "function",
+    "name": "ne",
+    "memberof": "src/num/cmp/ne.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/num/cmp/ne.js~ne",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/num/cmp/ne.js",
+    "importStyle": "ne",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 145,
+    "kind": "file",
+    "name": "src/num/unary/abs.js",
+    "content": "const abs = Math.abs;\nexport default abs;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/num/unary/abs.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 146,
+    "kind": "variable",
+    "name": "abs",
+    "memberof": "src/num/unary/abs.js",
+    "static": true,
+    "longname": "src/num/unary/abs.js~abs",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/num/unary/abs.js",
+    "importStyle": "abs",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 147,
+    "kind": "file",
+    "name": "src/num/unary/neg.js",
+    "content": "const neg = (x) => -x;\nexport default neg;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/num/unary/neg.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 148,
+    "kind": "function",
+    "name": "neg",
+    "memberof": "src/num/unary/neg.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/num/unary/neg.js~neg",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/num/unary/neg.js",
+    "importStyle": "neg",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "x",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 149,
+    "kind": "file",
+    "name": "src/num/unary/pos.js",
+    "content": "const pos = (obj) => Number(obj);\nexport default pos;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/num/unary/pos.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 150,
+    "kind": "function",
+    "name": "pos",
+    "memberof": "src/num/unary/pos.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/num/unary/pos.js~pos",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/num/unary/pos.js",
+    "importStyle": "pos",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "obj",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 151,
+    "kind": "file",
+    "name": "src/num/unary/pow2.js",
+    "content": "const pow2 = (obj) => obj * obj;\nexport default pow2;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/num/unary/pow2.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 152,
+    "kind": "function",
+    "name": "pow2",
+    "memberof": "src/num/unary/pow2.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/num/unary/pow2.js~pow2",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/num/unary/pow2.js",
+    "importStyle": "pow2",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "obj",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 153,
+    "kind": "file",
+    "name": "src/num/unary/pow3.js",
+    "content": "const pow3 = (obj) => obj * obj * obj;\nexport default pow3;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/num/unary/pow3.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 154,
+    "kind": "function",
+    "name": "pow3",
+    "memberof": "src/num/unary/pow3.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/num/unary/pow3.js~pow3",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/num/unary/pow3.js",
+    "importStyle": "pow3",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "obj",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 155,
+    "kind": "file",
+    "name": "src/num/unary/pow4.js",
+    "content": "const pow4 = (obj) => {\n\tconst tmp = obj * obj;\n\treturn tmp * tmp;\n};\n\nexport default pow4;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/num/unary/pow4.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 156,
+    "kind": "function",
+    "name": "pow4",
+    "memberof": "src/num/unary/pow4.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/num/unary/pow4.js~pow4",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/num/unary/pow4.js",
+    "importStyle": "pow4",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "obj",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 157,
+    "kind": "file",
+    "name": "src/num/unary/sqrt.js",
+    "content": "const sqrt = Math.sqrt;\nexport default sqrt;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/num/unary/sqrt.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 158,
+    "kind": "variable",
+    "name": "sqrt",
+    "memberof": "src/num/unary/sqrt.js",
+    "static": true,
+    "longname": "src/num/unary/sqrt.js~sqrt",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/num/unary/sqrt.js",
+    "importStyle": "sqrt",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 159,
+    "kind": "file",
+    "name": "src/obj/attrgetter.js",
+    "content": "import noop from '../fn/noop.js';\nimport attrresolve from './attrresolve.js';\n\nconst attrgetter = (...args) => {\n\tconst len = args.length;\n\n\tif (len === 0) return noop;\n\n\tif (len === 1) {\n\t\tconst attr = args[0];\n\t\treturn (obj) => attrresolve(obj, attr);\n\t}\n\n\treturn (obj) => {\n\t\tconst tuple = [];\n\n\t\tfor (let i = 0; i < len; ++i) {\n\t\t\ttuple.push(attrresolve(obj, args[i]));\n\t\t}\n\n\t\treturn tuple;\n\t};\n};\n\nexport default attrgetter;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/obj/attrgetter.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 160,
+    "kind": "function",
+    "name": "attrgetter",
+    "memberof": "src/obj/attrgetter.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/obj/attrgetter.js~attrgetter",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/obj/attrgetter.js",
+    "importStyle": "attrgetter",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "params": [
+      {
+        "name": "args",
+        "types": [
+          "...*"
+        ],
+        "spread": true
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 161,
+    "kind": "file",
+    "name": "src/obj/attrresolve.js",
+    "content": "const attrresolve = (obj, attr) => {\n\tconst parts = attr.split('.');\n\n\tconst len = parts.length;\n\n\tfor (let i = 0; i < len; ++i) {\n\t\tconst name = parts[i];\n\t\tobj = obj[name];\n\t}\n\n\treturn obj;\n};\n\nexport default attrresolve;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/obj/attrresolve.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 162,
+    "kind": "function",
+    "name": "attrresolve",
+    "memberof": "src/obj/attrresolve.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/obj/attrresolve.js~attrresolve",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/obj/attrresolve.js",
+    "importStyle": "attrresolve",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "obj",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "attr",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 163,
+    "kind": "file",
+    "name": "src/obj/delitem.js",
+    "content": "const delitem = (a, b) => {\n\tdelete a[b];\n};\n\nexport default delitem;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/obj/delitem.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 164,
+    "kind": "function",
+    "name": "delitem",
+    "memberof": "src/obj/delitem.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/obj/delitem.js~delitem",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/obj/delitem.js",
+    "importStyle": "delitem",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 165,
+    "kind": "file",
+    "name": "src/obj/getitem.js",
+    "content": "const getitem = (a, b) => a[b];\nexport default getitem;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/obj/getitem.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 166,
+    "kind": "function",
+    "name": "getitem",
+    "memberof": "src/obj/getitem.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/obj/getitem.js~getitem",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/obj/getitem.js",
+    "importStyle": "getitem",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 167,
+    "kind": "file",
+    "name": "src/obj/is.js",
+    "content": "const is = (a, b) => a === b;\nexport default is;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/obj/is.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 168,
+    "kind": "function",
+    "name": "is",
+    "memberof": "src/obj/is.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/obj/is.js~is",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/obj/is.js",
+    "importStyle": "is",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 169,
+    "kind": "file",
+    "name": "src/obj/isnot.js",
+    "content": "const isnot = (a, b) => a !== b;\nexport default isnot;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/obj/isnot.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 170,
+    "kind": "function",
+    "name": "isnot",
+    "memberof": "src/obj/isnot.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/obj/isnot.js~isnot",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/obj/isnot.js",
+    "importStyle": "isnot",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 171,
+    "kind": "file",
+    "name": "src/obj/itemgetter.js",
+    "content": "import noop from '../fn/noop.js';\n\nconst itemgetter = (...args) => {\n\tconst len = args.length;\n\n\tif (len === 0) return noop;\n\n\tif (len === 1) {\n\t\tconst attr = args[0];\n\t\treturn (obj) => obj[attr];\n\t}\n\n\treturn (obj) => {\n\t\tconst tuple = [];\n\n\t\tfor (let i = 0; i < len; ++i) {\n\t\t\ttuple.push(obj[args[i]]);\n\t\t}\n\n\t\treturn tuple;\n\t};\n};\n\nexport default itemgetter;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/obj/itemgetter.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 172,
+    "kind": "function",
+    "name": "itemgetter",
+    "memberof": "src/obj/itemgetter.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/obj/itemgetter.js~itemgetter",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/obj/itemgetter.js",
+    "importStyle": "itemgetter",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "params": [
+      {
+        "name": "args",
+        "types": [
+          "...*"
+        ],
+        "spread": true
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 173,
+    "kind": "file",
+    "name": "src/obj/setitem.js",
+    "content": "const setitem = (a, b, c) => {\n\ta[b] = c;\n};\n\nexport default setitem;\n",
+    "static": true,
+    "longname": "/home/runner/work/operator/operator/src/obj/setitem.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 174,
+    "kind": "function",
+    "name": "setitem",
+    "memberof": "src/obj/setitem.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/obj/setitem.js~setitem",
+    "access": "public",
+    "export": true,
+    "importPath": "@functional-abstraction/operator/src/obj/setitem.js",
+    "importStyle": "setitem",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "a",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "b",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "c",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "kind": "index",
+    "content": ":heavy_multiplication_x: :heavy_plus_sign: :heavy_minus_sign: :heavy_division_sign:\n[@functional-abstraction/operator](https://functional-abstraction.github.io/operator)\n==\n\nLanguage operator functions for JavaScript.\nSee [docs](https://functional-abstraction.github.io/operator/index.html).\n\n[![License](https://img.shields.io/github/license/functional-abstraction/operator.svg)](https://raw.githubusercontent.com/functional-abstraction/operator/main/LICENSE)\n[![Version](https://img.shields.io/npm/v/@functional-abstraction/operator.svg)](https://www.npmjs.org/package/@functional-abstraction/operator)\n[![Tests](https://img.shields.io/github/workflow/status/functional-abstraction/operator/ci:test?event=push&label=tests)](https://github.com/functional-abstraction/operator/actions/workflows/ci:test.yml?query=branch:main)\n[![Dependencies](https://img.shields.io/david/functional-abstraction/operator.svg)](https://david-dm.org/functional-abstraction/operator)\n[![Dev dependencies](https://img.shields.io/david/dev/functional-abstraction/operator.svg)](https://david-dm.org/functional-abstraction/operator?type=dev)\n[![GitHub issues](https://img.shields.io/github/issues/functional-abstraction/operator.svg)](https://github.com/functional-abstraction/operator/issues)\n[![Downloads](https://img.shields.io/npm/dm/@functional-abstraction/operator.svg)](https://www.npmjs.org/package/@functional-abstraction/operator)\n\n[![Code issues](https://img.shields.io/codeclimate/issues/functional-abstraction/operator.svg)](https://codeclimate.com/github/functional-abstraction/operator/issues)\n[![Code maintainability](https://img.shields.io/codeclimate/maintainability/functional-abstraction/operator.svg)](https://codeclimate.com/github/functional-abstraction/operator/trends/churn)\n[![Code coverage (cov)](https://img.shields.io/codecov/c/gh/functional-abstraction/operator/main.svg)](https://codecov.io/gh/functional-abstraction/operator)\n[![Code technical debt](https://img.shields.io/codeclimate/tech-debt/functional-abstraction/operator.svg)](https://codeclimate.com/github/functional-abstraction/operator/trends/technical_debt)\n[![Documentation](https://functional-abstraction.github.io/operator/badge.svg)](https://functional-abstraction.github.io/operator/source.html)\n[![Package size](https://img.shields.io/bundlephobia/minzip/@functional-abstraction/operator)](https://bundlephobia.com/result?p=@functional-abstraction/operator)\n\n\n## :scroll: References\n\n  - https://docs.python.org/3/library/operator.html\n",
+    "longname": "/home/runner/work/operator/operator/README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"@functional-abstraction/operator\",\n  \"description\": \"Language operator functions for JavaScript\",\n  \"version\": \"1.0.3\",\n  \"license\": \"AGPL-3.0\",\n  \"author\": \"make-github-pseudonymous-again\",\n  \"homepage\": \"https://functional-abstraction.github.io/operator\",\n  \"repository\": {\n    \"url\": \"https://github.com/functional-abstraction/operator\",\n    \"type\": \"git\"\n  },\n  \"bugs\": {\n    \"url\": \"https://github.com/functional-abstraction/operator/issues\"\n  },\n  \"keywords\": [\n    \"bricks\",\n    \"functional\",\n    \"javascript\",\n    \"js\",\n    \"operator\"\n  ],\n  \"sideEffects\": false,\n  \"source\": \"src/index.js\",\n  \"main\": \"dist/index.js\",\n  \"module\": \"dist/index.module.js\",\n  \"esmodule\": \"dist/index.modern.js\",\n  \"umd:main\": \"dist/index.umd.js\",\n  \"unpkg\": \"dist/index.umd.js\",\n  \"exports\": {\n    \".\": {\n      \"browser\": \"./dist/index.module.js\",\n      \"umd\": \"./dist/index.umd.js\",\n      \"require\": \"./dist/index.js\",\n      \"default\": \"./dist/index.modern.js\"\n    }\n  },\n  \"files\": [\n    \"dist\"\n  ],\n  \"scripts\": {\n    \"build\": \"NODE_ENV=production microbundle\",\n    \"build-docs\": \"esdoc\",\n    \"build-gh-pages\": \"npm run build-docs\",\n    \"ci:test\": \"npm run lint-config && npm run lint && npm run cover\",\n    \"commit-msg\": \"commitlint --edit\",\n    \"cover\": \"NODE_ENV=cover c8 --all --src src --reporter lcov --reporter text-summary --reporter text npm test\",\n    \"debug\": \"NODE_ENV=debug npm run test -- -st --fail-fast\",\n    \"dev\": \"npm run lint-config-and-fix && npm run lint-and-fix && npm run cover -- -- -st --fail-fast\",\n    \"install-hooks\": \"husky install\",\n    \"lint\": \"xo\",\n    \"lint-and-fix\": \"npm run lint -- --fix\",\n    \"lint-config\": \"fixpack --dryRun\",\n    \"lint-config-and-fix\": \"fixpack || fixpack\",\n    \"postinstall\": \"npm run install-hooks\",\n    \"postpublish\": \"pinst --enable\",\n    \"precommit\": \"lint-staged\",\n    \"prepare\": \"npm run build\",\n    \"prepublishOnly\": \"pinst --disable\",\n    \"release\": \"np --message ':hatching_chick: release: Bumping to v%s.'\",\n    \"test\": \"ava\"\n  },\n  \"dependencies\": {},\n  \"devDependencies\": {\n    \"@babel/core\": \"7.14.0\",\n    \"@babel/preset-env\": \"7.14.0\",\n    \"@babel/register\": \"7.13.16\",\n    \"@commitlint/cli\": \"12.1.1\",\n    \"@js-library/commitlint-config\": \"0.0.4\",\n    \"ava\": \"3.15.0\",\n    \"babel-plugin-transform-remove-console\": \"6.9.4\",\n    \"babel-plugin-unassert\": \"3.0.1\",\n    \"babel-preset-power-assert\": \"3.0.0\",\n    \"c8\": \"7.7.1\",\n    \"coveralls\": \"3.1.0\",\n    \"esdoc\": \"1.1.0\",\n    \"esdoc-inject-script-plugin\": \"1.0.0\",\n    \"esdoc-inject-style-plugin\": \"1.0.0\",\n    \"esdoc-standard-plugin\": \"1.0.0\",\n    \"fixpack\": \"4.0.0\",\n    \"husky\": \"6.0.0\",\n    \"lint-staged\": \"10.5.4\",\n    \"microbundle\": \"0.13.0\",\n    \"np\": \"7.5.0\",\n    \"pinst\": \"2.1.6\",\n    \"power-assert\": \"1.6.1\",\n    \"xo\": \"0.39.1\"\n  },\n  \"ava\": {\n    \"files\": [\n      \"test/src/**/*\"\n    ],\n    \"require\": [\n      \"@babel/register\"\n    ],\n    \"timeout\": \"1m\"\n  },\n  \"babel\": {\n    \"sourceMaps\": true,\n    \"presets\": [\n      [\n        \"@babel/preset-env\",\n        {\n          \"targets\": \"current node\"\n        }\n      ]\n    ],\n    \"plugins\": [\n      [\n        \"transform-remove-console\",\n        {\n          \"exclude\": [\n            \"log\",\n            \"error\",\n            \"warn\"\n          ]\n        }\n      ]\n    ],\n    \"env\": {\n      \"debug\": {\n        \"presets\": [\n          \"babel-preset-power-assert\"\n        ],\n        \"plugins\": [\n          [\n            \"transform-remove-console\",\n            {\n              \"exclude\": [\n                \"debug\",\n                \"log\",\n                \"error\",\n                \"warn\"\n              ]\n            }\n          ]\n        ]\n      },\n      \"test\": {\n        \"presets\": [\n          \"babel-preset-power-assert\"\n        ]\n      },\n      \"cover\": {\n        \"sourceMaps\": \"both\",\n        \"presets\": [\n          \"babel-preset-power-assert\"\n        ]\n      },\n      \"development\": {\n        \"presets\": [\n          [\n            \"@babel/preset-env\",\n            {\n              \"targets\": [\n                \"defaults\",\n                \"maintained node versions\"\n              ]\n            }\n          ],\n          \"babel-preset-power-assert\"\n        ]\n      },\n      \"production\": {\n        \"presets\": [\n          [\n            \"@babel/preset-env\",\n            {\n              \"targets\": [\n                \"defaults\",\n                \"maintained node versions\"\n              ]\n            }\n          ]\n        ],\n        \"plugins\": [\n          \"babel-plugin-unassert\"\n        ]\n      }\n    }\n  },\n  \"lint-staged\": {\n    \"*.js\": [\n      \"npm run lint-and-fix\"\n    ],\n    \"package.json\": [\n      \"npm run lint-config-and-fix\"\n    ]\n  },\n  \"prettier\": {\n    \"trailingComma\": \"all\"\n  },\n  \"xo\": {\n    \"prettier\": true,\n    \"plugins\": [\n      \"unicorn\"\n    ],\n    \"rules\": {\n      \"unicorn/filename-case\": \"off\",\n      \"camelcase\": \"off\",\n      \"unicorn/prevent-abbreviations\": \"off\",\n      \"no-constant-condition\": \"off\",\n      \"unicorn/prefer-math-trunc\": \"off\",\n      \"unicorn/no-new-array\": \"off\",\n      \"no-negated-condition\": \"off\"\n    },\n    \"overrides\": [\n      {\n        \"files\": [\n          \"doc/**\"\n        ],\n        \"env\": \"browser\"\n      }\n    ]\n  }\n}\n",
+    "longname": "/home/runner/work/operator/operator/package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manualIndex",
+    "globalIndex": false,
+    "content": null,
+    "longname": "",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/runner/work/operator/operator/doc/manual/overview.md",
+    "name": "./doc/manual/overview.md",
+    "content": "# Overview\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/runner/work/operator/operator/doc/manual/installation.md",
+    "name": "./doc/manual/installation.md",
+    "content": "# Installation\n\nCan be managed using\n[yarn](https://yarnpkg.com/en/docs),\n[npm](https://docs.npmjs.com),\nor [jspm](https://jspm.org/docs).\n\n\n### yarn\n```terminal\nyarn add @functional-abstraction/operator\n```\n\n### npm\n```terminal\nnpm install @functional-abstraction/operator --save\n```\n\n### jspm\n```terminal\njspm install npm:@functional-abstraction/operator\n```\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/runner/work/operator/operator/doc/manual/usage.md",
+    "name": "./doc/manual/usage.md",
+    "content": "# Usage\n\nImport the library where needed\n```js\nconst operator = require( '@functional-abstraction/operator' ) ;\n// or\nimport * as operator from '@functional-abstraction/operator' ;\n```\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/runner/work/operator/operator/doc/manual/example.md",
+    "name": "./doc/manual/example.md",
+    "content": "# Examples\n\n> More examples in [the test files](https://github.com/functional-abstraction/operator/tree/main/test/src).\n",
+    "static": true,
+    "access": "public"
+  }
+]

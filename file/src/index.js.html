@@ -2,8 +2,8 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <base data-ice="baseUrl">
-  <title data-ice="title">Home | @functional-abstraction/operator</title>
+  <base data-ice="baseUrl" href="../../">
+  <title data-ice="title">src/index.js | @functional-abstraction/operator</title>
   <link type="text/css" rel="stylesheet" href="css/style.css">
   <link type="text/css" rel="stylesheet" href="css/prettify-tomorrow.css">
   <script src="script/prettify/prettify.js"></script>
@@ -96,26 +96,73 @@
 </div>
 </nav>
 
-<div class="content" data-ice="content"><div data-ice="index" class="github-markdown"><p>:heavy_multiplication_x: :heavy_plus_sign: :heavy_minus_sign: :heavy_division_sign:</p>
-<h1 id="-a-href--https---functional-abstraction-github-io-operator---functional-abstraction-operator--a-"><a href="https://functional-abstraction.github.io/operator">@functional-abstraction/operator</a></h1><p>Language operator functions for JavaScript.
-See <a href="https://functional-abstraction.github.io/operator/index.html">docs</a>.</p>
-<p><a href="https://raw.githubusercontent.com/functional-abstraction/operator/main/LICENSE"><img src="https://img.shields.io/github/license/functional-abstraction/operator.svg" alt="License"></a>
-<a href="https://www.npmjs.org/package/@functional-abstraction/operator"><img src="https://img.shields.io/npm/v/@functional-abstraction/operator.svg" alt="Version"></a>
-<a href="https://github.com/functional-abstraction/operator/actions/workflows/ci:test.yml?query=branch:main"><img src="https://img.shields.io/github/workflow/status/functional-abstraction/operator/ci:test?event=push&amp;label=tests" alt="Tests"></a>
-<a href="https://david-dm.org/functional-abstraction/operator"><img src="https://img.shields.io/david/functional-abstraction/operator.svg" alt="Dependencies"></a>
-<a href="https://david-dm.org/functional-abstraction/operator?type=dev"><img src="https://img.shields.io/david/dev/functional-abstraction/operator.svg" alt="Dev dependencies"></a>
-<a href="https://github.com/functional-abstraction/operator/issues"><img src="https://img.shields.io/github/issues/functional-abstraction/operator.svg" alt="GitHub issues"></a>
-<a href="https://www.npmjs.org/package/@functional-abstraction/operator"><img src="https://img.shields.io/npm/dm/@functional-abstraction/operator.svg" alt="Downloads"></a></p>
-<p><a href="https://codeclimate.com/github/functional-abstraction/operator/issues"><img src="https://img.shields.io/codeclimate/issues/functional-abstraction/operator.svg" alt="Code issues"></a>
-<a href="https://codeclimate.com/github/functional-abstraction/operator/trends/churn"><img src="https://img.shields.io/codeclimate/maintainability/functional-abstraction/operator.svg" alt="Code maintainability"></a>
-<a href="https://codecov.io/gh/functional-abstraction/operator"><img src="https://img.shields.io/codecov/c/gh/functional-abstraction/operator/main.svg" alt="Code coverage (cov)"></a>
-<a href="https://codeclimate.com/github/functional-abstraction/operator/trends/technical_debt"><img src="https://img.shields.io/codeclimate/tech-debt/functional-abstraction/operator.svg" alt="Code technical debt"></a>
-<a href="https://functional-abstraction.github.io/operator/source.html"><img src="https://functional-abstraction.github.io/operator/badge.svg" alt="Documentation"></a>
-<a href="https://bundlephobia.com/result?p=@functional-abstraction/operator"><img src="https://img.shields.io/bundlephobia/minzip/@functional-abstraction/operator" alt="Package size"></a></p>
-<h2 id="-scroll--references">:scroll: References</h2><ul>
-<li><a href="https://docs.python.org/3/library/operator.html">https://docs.python.org/3/library/operator.html</a></li>
-</ul>
-</div>
+<div class="content" data-ice="content"><h1 data-ice="title">src/index.js</h1>
+<pre class="source-code line-number raw-source-code"><code class="prettyprint linenums" data-ice="content">export {default as and} from &apos;./bool/and.js&apos;;
+export {default as not} from &apos;./bool/not.js&apos;;
+export {default as or} from &apos;./bool/or.js&apos;;
+export {default as xor} from &apos;./bool/xor.js&apos;;
+export {default as identity} from &apos;./cast/identity.js&apos;;
+export {default as index} from &apos;./cast/index.js&apos;;
+export {default as cast} from &apos;./cast/index.js&apos;;
+export {default as truth} from &apos;./cast/truth.js&apos;;
+export {default as methodcaller} from &apos;./fn/methodcaller.js&apos;;
+export {default as noop} from &apos;./fn/noop.js&apos;;
+export {default as concat} from &apos;./list/concat.js&apos;;
+export {default as contains} from &apos;./list/contains.js&apos;;
+export {default as countOf} from &apos;./list/countOf.js&apos;;
+export {default as iconcat} from &apos;./list/iconcat.js&apos;;
+export {default as indexOf} from &apos;./list/indexOf.js&apos;;
+export {default as len} from &apos;./list/len.js&apos;;
+export {default as add} from &apos;./num/binary/add.js&apos;;
+export {default as floordiv} from &apos;./num/binary/floordiv.js&apos;;
+export {default as iadd} from &apos;./num/binary/iadd.js&apos;;
+export {default as ifloordiv} from &apos;./num/binary/ifloordiv.js&apos;;
+export {default as ilshift} from &apos;./num/binary/ilshift.js&apos;;
+export {default as imod} from &apos;./num/binary/imod.js&apos;;
+export {default as imul} from &apos;./num/binary/imul.js&apos;;
+export {default as ipow} from &apos;./num/binary/ipow.js&apos;;
+export {default as irshift} from &apos;./num/binary/irshift.js&apos;;
+export {default as isub} from &apos;./num/binary/isub.js&apos;;
+export {default as itruediv} from &apos;./num/binary/itruediv.js&apos;;
+export {default as iushift} from &apos;./num/binary/iushift.js&apos;;
+export {default as lshift} from &apos;./num/binary/lshift.js&apos;;
+export {default as mod} from &apos;./num/binary/mod.js&apos;;
+export {default as mul} from &apos;./num/binary/mul.js&apos;;
+export {default as pow} from &apos;./num/binary/pow.js&apos;;
+export {default as rshift} from &apos;./num/binary/rshift.js&apos;;
+export {default as sub} from &apos;./num/binary/sub.js&apos;;
+export {default as truediv} from &apos;./num/binary/truediv.js&apos;;
+export {default as ushift} from &apos;./num/binary/ushift.js&apos;;
+export {default as AND} from &apos;./num/bit/AND.js&apos;;
+export {default as IAND} from &apos;./num/bit/IAND.js&apos;;
+export {default as IOR} from &apos;./num/bit/IOR.js&apos;;
+export {default as IXOR} from &apos;./num/bit/IXOR.js&apos;;
+export {default as NOT} from &apos;./num/bit/NOT.js&apos;;
+export {default as OR} from &apos;./num/bit/OR.js&apos;;
+export {default as XOR} from &apos;./num/bit/XOR.js&apos;;
+export {default as eq} from &apos;./num/cmp/eq.js&apos;;
+export {default as ge} from &apos;./num/cmp/ge.js&apos;;
+export {default as gt} from &apos;./num/cmp/gt.js&apos;;
+export {default as le} from &apos;./num/cmp/le.js&apos;;
+export {default as lt} from &apos;./num/cmp/lt.js&apos;;
+export {default as ne} from &apos;./num/cmp/ne.js&apos;;
+export {default as abs} from &apos;./num/unary/abs.js&apos;;
+export {default as neg} from &apos;./num/unary/neg.js&apos;;
+export {default as pos} from &apos;./num/unary/pos.js&apos;;
+export {default as pow2} from &apos;./num/unary/pow2.js&apos;;
+export {default as pow3} from &apos;./num/unary/pow3.js&apos;;
+export {default as pow4} from &apos;./num/unary/pow4.js&apos;;
+export {default as sqrt} from &apos;./num/unary/sqrt.js&apos;;
+export {default as attrgetter} from &apos;./obj/attrgetter.js&apos;;
+export {default as attrresolve} from &apos;./obj/attrresolve.js&apos;;
+export {default as delitem} from &apos;./obj/delitem.js&apos;;
+export {default as getitem} from &apos;./obj/getitem.js&apos;;
+export {default as is} from &apos;./obj/is.js&apos;;
+export {default as isnot} from &apos;./obj/isnot.js&apos;;
+export {default as itemgetter} from &apos;./obj/itemgetter.js&apos;;
+export {default as setitem} from &apos;./obj/setitem.js&apos;;
+</code></pre>
+
 </div>
 
 <footer class="footer">
