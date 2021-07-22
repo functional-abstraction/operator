@@ -2,6 +2,13 @@
 [@functional-abstraction/operator](https://functional-abstraction.github.io/operator)
 ==
 
+<p align="center">
+<a href="https://xkcd.com/2343">
+<img src="https://imgs.xkcd.com/comics/mathematical_symbol_fight.png" width="540">
+</a><br/>
+© <a href="https://xkcd.com">xkcd.com</a>
+</p>
+
 Language operator functions for JavaScript.
 See [docs](https://functional-abstraction.github.io/operator/index.html).
 
