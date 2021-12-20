@@ -20,8 +20,7 @@ len('abc'); // 3
 [![License](https://img.shields.io/github/license/functional-abstraction/operator.svg)](https://raw.githubusercontent.com/functional-abstraction/operator/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@functional-abstraction/operator.svg)](https://www.npmjs.org/package/@functional-abstraction/operator)
 [![Tests](https://img.shields.io/github/workflow/status/functional-abstraction/operator/ci:test?event=push&label=tests)](https://github.com/functional-abstraction/operator/actions/workflows/ci:test.yml?query=branch:main)
-[![Dependencies](https://img.shields.io/david/functional-abstraction/operator.svg)](https://david-dm.org/functional-abstraction/operator)
-[![Dev dependencies](https://img.shields.io/david/dev/functional-abstraction/operator.svg)](https://david-dm.org/functional-abstraction/operator?type=dev)
+[![Dependencies](https://img.shields.io/librariesio/github/functional-abstraction/operator.svg)](https://github.com/functional-abstraction/operator/network/dependencies)
 [![GitHub issues](https://img.shields.io/github/issues/functional-abstraction/operator.svg)](https://github.com/functional-abstraction/operator/issues)
 [![Downloads](https://img.shields.io/npm/dm/@functional-abstraction/operator.svg)](https://www.npmjs.org/package/@functional-abstraction/operator)
 
