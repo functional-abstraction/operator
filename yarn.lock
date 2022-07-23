@@ -10,6 +10,11 @@
     "@jridgewell/gen-mapping" "^0.1.0"
     "@jridgewell/trace-mapping" "^0.3.9"
 
+"@arithmetic-type/uint64@^4.0.0":
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/@arithmetic-type/uint64/-/uint64-4.0.0.tgz#c76b82919f9d309eaff38d5cf875ac1a7ca497b6"
+  integrity sha512-oMpwI5Ka8dsmRqG9EMdKct1737DeMzd7B8F9d5cuE/PrMXy10y1hvls/JmogN/1H+S0ZTJ+2ObU2EqjCvw7FeA==
+
 "@babel/code-frame@^7.0.0", "@babel/code-frame@^7.10.4", "@babel/code-frame@^7.16.7":
   version "7.16.7"
   resolved "https://registry.yarnpkg.com/@babel/code-frame/-/code-frame-7.16.7.tgz#44416b6bd7624b998f5b1af5d470856c40138789"
@@ -2002,6 +2007,13 @@
   dependencies:
     "@jridgewell/trace-mapping" "0.3.9"
 
+"@entropy-source/pseudo-random@^4.0.0":
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/@entropy-source/pseudo-random/-/pseudo-random-4.0.0.tgz#a91d57e356e0c11ead53abaf4a9e91246ef5f109"
+  integrity sha512-1tvVXXYVMMSUGPo/qp9UGsw0Fqo5JqxZ2PnVwoDSwfqUS0zPWt1KLO3zReL+9W4P/XTLtGMDyDSXSLZ13LU1wA==
+  dependencies:
+    "@arithmetic-type/uint64" "^4.0.0"
+
 "@eslint/eslintrc@^1.3.0":
   version "1.3.0"
   resolved "https://registry.yarnpkg.com/@eslint/eslintrc/-/eslintrc-1.3.0.tgz#29f92c30bb3e771e4a2048c95fa6855392dfac4f"
@@ -2117,6 +2129,11 @@
   dependencies:
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
+
+"@randomized/random@^4.1.0":
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/@randomized/random/-/random-4.1.0.tgz#ebefffe81fbeed5e8bc44b5869078d5ab1c0afb4"
+  integrity sha512-MRnxsBvXpmxbfAujUIglwLJCcU8N3ee+j9VIr9p20kYtLWUPgCTsE5D06ARgbn8JXrNbjtUtqw40eCIj8nFhGw==
 
 "@rollup/plugin-alias@^3.1.1":
   version "3.1.9"
@@ -9711,15 +9728,15 @@ xo@0.51.0:
   integrity sha512-T9VTOsiCzJJZKNBVWbPFCaVdo/TebfXHjzozCSUq1LZnpMUXLzcAyeNOekKG4/b2CvKoCC5jeSQlyylXzAKq6Q==
   dependencies:
     "@eslint/eslintrc" "^1.3.0"
-    "@typescript-eslint/eslint-plugin" "*"
-    "@typescript-eslint/parser" "*"
+    "@typescript-eslint/eslint-plugin" "^5.27.1"
+    "@typescript-eslint/parser" "^5.27.1"
     arrify "^3.0.0"
     cosmiconfig "^7.0.1"
     define-lazy-prop "^3.0.0"
     eslint "^8.17.0"
     eslint-config-prettier "^8.5.0"
     eslint-config-xo "^0.41.0"
-    eslint-config-xo-typescript "*"
+    eslint-config-xo-typescript "^0.51.1"
     eslint-formatter-pretty "^4.1.0"
     eslint-import-resolver-webpack "^0.13.2"
     eslint-plugin-ava "^13.2.0"
