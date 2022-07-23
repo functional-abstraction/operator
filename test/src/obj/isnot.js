@@ -1,7 +1,6 @@
 import test from 'ava';
-import * as operator from '#module';
-
 import {entropy} from '../../fixtures.js';
+import * as operator from '#module';
 
 const seed = [0, 17];
 const {randint} = entropy(seed);
