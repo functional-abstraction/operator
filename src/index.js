@@ -62,3 +62,4 @@ export {default as is} from './obj/is.js';
 export {default as isnot} from './obj/isnot.js';
 export {default as itemgetter} from './obj/itemgetter.js';
 export {default as setitem} from './obj/setitem.js';
+export {default as size} from './set/size.js';
