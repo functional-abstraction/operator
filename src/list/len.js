@@ -8,7 +8,7 @@
  * len( list( range( 7 ) ) ) ;
  *
  * @param {any} x Input.
- * @return {Number}
+ * @return {number}
  */
 const len = (x) => x.length;
 export default len;

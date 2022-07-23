@@ -7,7 +7,7 @@
  * size( new Set( range( 7 ) ) ) ;
  *
  * @param {any} x Input.
- * @return {Number}
+ * @return {number}
  */
 const size = (x) => x.size;
 export default size;
