@@ -1,5 +1,5 @@
 import test from 'ava';
-import * as operator from '../../../src/index.js';
+import * as operator from '#module';
 
 test('iconcat', (t) => {
 	const a = [1, 2];

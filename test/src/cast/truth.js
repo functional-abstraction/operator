@@ -1,5 +1,5 @@
 import test from 'ava';
-import * as operator from '../../../src/index.js';
+import * as operator from '#module';
 
 test('truth', (t) => {
 	t.is(operator.truth(Number.NaN), false, 'truth NaN');

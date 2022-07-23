@@ -1,5 +1,5 @@
 import test from 'ava';
-import * as operator from '../../../src/index.js';
+import * as operator from '#module';
 
 import {entropy} from '../../fixtures.js';
 

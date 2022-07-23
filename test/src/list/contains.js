@@ -1,5 +1,5 @@
 import test from 'ava';
-import * as operator from '../../../src/index.js';
+import * as operator from '#module';
 
 test('contains', (t) => {
 	t.true(operator.contains([1, 2, 3, 4, 5], 1), 'contains [1, 2, 3, 4, 5], 1');

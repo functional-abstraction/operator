@@ -1,5 +1,5 @@
 import test from 'ava';
-import * as operator from '../../../src/index.js';
+import * as operator from '#module';
 
 test('size', (t) => {
 	t.is(operator.size(new Set([])), 0, 'size {}');

@@ -1,5 +1,5 @@
 import test from 'ava';
-import * as operator from '../../../src/index.js';
+import * as operator from '#module';
 
 const macro = (t, a, b, expected) => {
 	t.is(operator.xor(a, b), expected);

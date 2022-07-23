@@ -1,5 +1,5 @@
 import test from 'ava';
-import * as operator from '../../../src/index.js';
+import * as operator from '#module';
 
 test('indexOf', (t) => {
 	t.is(operator.indexOf([1, 2, 3, 4, 5], 1), 0, 'indexOf [1, 2, 3, 4, 5], 1');

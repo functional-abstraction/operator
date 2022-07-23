@@ -1,5 +1,5 @@
 import test from 'ava';
-import * as operator from '../../../src/index.js';
+import * as operator from '#module';
 
 test('or', (t) => {
 	t.is(operator.or(true, true), true, 'true or true');
