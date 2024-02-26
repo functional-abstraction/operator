@@ -1,5 +1,7 @@
 import test from 'ava';
+
 import {entropy} from '../../fixtures.js';
+
 import * as operator from '#module';
 
 const seed = [0, 17];

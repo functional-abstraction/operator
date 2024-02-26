@@ -1,4 +1,5 @@
 import test from 'ava';
+
 import * as operator from '#module';
 
 const macro = (t, a, b, expected) => {

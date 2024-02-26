@@ -1,4 +1,5 @@
 import test from 'ava';
+
 import * as operator from '#module';
 
 test('indexOf', (t) => {

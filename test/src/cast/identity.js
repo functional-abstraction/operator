@@ -1,4 +1,5 @@
 import test from 'ava';
+
 import {identity} from '#module';
 
 const repr = (x) => {

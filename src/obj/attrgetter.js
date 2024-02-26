@@ -1,4 +1,5 @@
 import noop from '../fn/noop.js';
+
 import attrresolve from './attrresolve.js';
 
 const attrgetter = (...args) => {
